@@ -87,14 +87,19 @@ o dejar que un hogar de casa cocine tres platos a la vez.
 
 ### Cofres
 Construye un **cofre** de madera (12 huecos) o un **arcón marino** (24) desde la pestaña **Mobiliario** del menú de
-construcción y guarda en él tus cosas. Fabricar y cocinar usan también lo que hay en los cofres a 4 m de ti o de la
-hoguera: primero paga la mochila, y un pequeño **+N** muestra lo que pone un cofre.
+construcción y guarda en él tus cosas. Construir, fabricar, cocinar, el combustible, plantar, pagar y cavar tierra usan también lo que hay en los cofres
+a 4 m de ti o de la hoguera: primero paga la mochila, y un pequeño **+N** en los menús de construir, fabricar y cocinar
+muestra lo que ponen los cofres.
 
 | | |
 |---|---|
 | ![Un cofre de madera en un rincón de la casa, a la luz de las antorchas de pared](media/chest_house.jpg) | ![El panel del cofre: sus huecos junto a la mochila, con Cogerlo todo y Guardar iguales](media/chest_panel.jpg) |
 
 ![La pestaña Cocinar junto a una hoguera: cada plato cuenta lo de la mochila y un pequeño +1 del cofre de al lado](media/cook_from_chest.jpg)
+
+| | |
+|---|---|
+| ![Un arcón marino junto al jugador, al aire libre](media/chest_beside.jpg) | ![El menú de construcción: cada material cuenta la mochila y un pequeño +N del cofre de al lado](media/build_from_chest.jpg) |
 
 ### Mejora haciendo
 Dieciocho habilidades suben de 1 a 30 con el uso: corre y te cansas menos, tala y cada hachazo muerde más hondo,
@@ -357,8 +362,9 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   rain. If you die, your things wait in a Viking cairn marked on the map.
 - **Inventory, Craft and Cook.** Tab opens it without pausing the world. Cook becomes the cooking menu of the fire you
   stand at: spit, hanging pot, or a house hearth cooking three dishes at once.
-- **Chests.** A wooden chest (12 slots) or a sea chest (24) from the Furniture tab. Crafting and cooking draw on the
-  chests within 4 m of you or the fire: a small +N shows what a chest adds.
+- **Chests.** A wooden chest (12 slots) or a sea chest (24) from the Furniture tab. Building, crafting, cooking, fuel, planting,
+  paying and digging soil draw on the chests within 4 m of you or the fire: a small +N in the build, craft and cook
+  menus shows what the chests add.
 - **Get better by doing.** Eighteen skills from 1 to 30, with golden milestones at 10, 20 and 30.
 - **Build.** Stone foundations, log walls, doors, floors, beams, stairs, shingled roofs, torches and a hearth with a
   chimney. Pieces snap into place and every piece needs a chain of supports to the ground.
