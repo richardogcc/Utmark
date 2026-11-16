@@ -9,7 +9,7 @@
   · <a href="#english">English below</a>
 </p>
 
-![Amanecer sobre un mundo generado: Valles del Alba y Sotos de Ámbar bajo una cresta nevada, con el mar en el horizonte](media/hero_dawn.jpg)
+![Hora dorada sobre un mundo generado: un río serpentea entre praderas hasta un lago bajo un pico con nieve, con el mar en el horizonte](media/hero.jpg)
 
 **Utmark** es un juego de supervivencia, exploración y construcción en una tierra salvaje del norte que aprendes a
 leer. El nombre es la palabra escandinava para la tierra de fuera de la cerca de la granja: la que no se cultiva sino
@@ -35,7 +35,7 @@ pon marcadores y viaja con un clic.
 
 | | |
 |---|---|
-| ![Atardecer sobre un valle fluvial, con crestas nevadas y bosquetes](media/vista.jpg) | ![El mapa ampliado a un kilómetro alrededor del inicio: curvas de nivel, alturas rocosas y la escala a 200 m](media/map_zoom.jpg) |
+| ![Luz de tarde sobre las crestas nevadas de los Altos de Escarcha, sobre bosque abierto](media/snow_heights.jpg) | ![El mapa del juego a unos tres kilómetros del inicio: curvas de nivel, lagos, ríos, la rosa de los vientos y la escala a 500 m](media/map.jpg) |
 
 ### Ríos, lagos y siete ecosistemas
 Los ríos bajan hasta el mar y los lagos llenan las hondonadas: siempre hay agua a pocos pasos. Siete ecosistemas y el
@@ -43,9 +43,10 @@ mar, elegidos por la propia tierra, cada uno con su suelo, sus plantas, su luz, 
 
 | | |
 |---|---|
-| ![Valles del Alba: pradera abierta con frondosas y las alturas al fondo](media/eco_dawn_vales.jpg)<br>**Valles del Alba**: praderas abrigadas y bosque mixto. | ![Sotos de Ámbar: árboles de tronco claro y copa de miel entre frondosas verdes](media/eco_amber_groves.jpg)<br>**Sotos de Ámbar**: bosques de copa dorada en la cara húmeda de las crestas. |
-| ![Cuencas de Junco: espadañas y juncos en una hondonada húmeda](media/eco_reed_basins.jpg)<br>**Cuencas de Junco**: hondonadas húmedas, mosquitos y luciérnagas de noche. | ![Páramos de Sílex: suelo claro, brezo, rocas y enebros doblados por el viento](media/eco_flint_moors_junipers.jpg)<br>**Páramos de Sílex**: brezal abierto a sotavento. |
-| ![Altos de Escarcha: una ladera nevada y batida por el viento con rocas oscuras](media/eco_rime_heights.jpg)<br>**Altos de Escarcha**: crestas frías y nieve a la deriva. | ![Costas de Sal: una cala de arena con barrón y un cabo rocoso](media/eco_salt_coasts.jpg)<br>**Costas de Sal**: dunas, calas y acantilados. |
+| ![Valles del Alba: una pradera con margaritas, campanillas y trébol en manchas, y las alturas al fondo](media/eco_dawn_vales.jpg)<br>**Valles del Alba**: praderas abrigadas con manchas de flores silvestres y bosque mixto. | ![Sotos de Ámbar: abedules de tronco claro y frondosas a contraluz con el sol de la tarde](media/eco_amber_groves.jpg)<br>**Sotos de Ámbar**: bosques de copa dorada en la cara húmeda de las crestas. |
+| ![Cuencas de Junco: espadañas y juncos bajo frondosas en una hondonada húmeda](media/eco_reed_basins.jpg)<br>**Cuencas de Junco**: hondonadas húmedas, mosquitos y luciérnagas de noche. | ![Páramos de Sílex: suelo claro y pedregoso, brezo y árboles sueltos bajo las crestas](media/eco_flint_moors.jpg)<br>**Páramos de Sílex**: brezal abierto a sotavento. |
+| ![Altos de Escarcha: una ladera escarchada con pinos bajo una cresta nevada](media/eco_rime_heights.jpg)<br>**Altos de Escarcha**: crestas frías y nieve a la deriva. | ![Costas de Sal: una playa de arena que se curva junto a un mar en calma](media/eco_salt_coasts.jpg)<br>**Costas de Sal**: dunas, calas y acantilados. |
+| ![Calderas de Ascua: suelo de ceniza y árboles muertos bajo un cielo brumoso](media/eco_ember_calderas.jpg)<br>**Calderas de Ascua**: raros puntos volcánicos de ceniza y fumarolas. | ![Un lago bajo las alturas, con juncos en la orilla](media/river_lake.jpg)<br>**Ríos y lagos**: el agua nunca queda lejos. |
 
 Las Calderas de Ascua, raros puntos volcánicos de ceniza y fumarolas, completan los siete.
 
@@ -55,7 +56,7 @@ y se funden con suavidad. Las cuencas son las más nubladas, los páramos recibe
 sobre las calderas. Las tormentas oscurecen el cielo y lanzan rayos; el mar sube con el viento y la espuma trepa por
 la playa.
 
-![Una tormenta en las Costas de Sal a la altura de los ojos: lluvia, rayos y oleaje en la playa](media/storm_shore.gif)
+![Una tormenta en las Costas de Sal a la altura de los ojos: lluvia, relámpagos y el mar oscuro](media/storm_shore.gif)
 
 ## Sobrevivir
 
@@ -65,7 +66,7 @@ Salud, hambre y sed bajan despacio: un día dura 40 minutos y una cantimplora y 
 pila. Duerme en una cama, comido y bebido. Si mueres, tus cosas te esperan en un **túmulo vikingo** marcado en el mapa
 y te levantas con unas pocas herramientas básicas.
 
-![Un túmulo de piedras apiladas con una espada encima](media/cairn.jpg)
+![Comiendo setas asadas desde la barra rápida: las barras de salud, aguante, comida y agua y el progreso de la comida sobre la barra](media/vitals.jpg)
 
 ### Inventario, Fabricar y Cocinar
 Tab abre el inventario sin pausar el mundo: barra rápida en 1-9 y 0, mochila y pestañas de **Fabricar** y **Cocinar**
@@ -75,14 +76,14 @@ o dejar que un hogar de casa cocine tres platos a la vez.
 
 | | |
 |---|---|
-| ![El inventario en la pestaña Cocinar junto a una hoguera: una olla colgada sobre las llamas y setas en el espetón](media/inventory_cook.jpg) | ![Un hogar de casa cocinando tres platos a la vez](media/hearth_three.jpg) |
+| ![El inventario en la pestaña Fabricar: cada receta con lo que tienes y lo que falta](media/inventory_craft.jpg) | ![El inventario en la pestaña Cocinar junto a una hoguera: un plato en marcha y los platos listos para cocinar](media/inventory_cook.jpg) |
 
 ### Mejora haciendo
 Dieciocho habilidades suben de 1 a 30 con el uso: corre y te cansas menos, tala y cada hachazo muerde más hondo,
 acércate agachado y los animales tardan más en notarte. La **herbolaria** da plantas extra por cada recogida. Los
 niveles 10, 20 y 30 se marcan con un brillo dorado. N abre todas las habilidades.
 
-![El panel de habilidades: atributos derivados y habilidades físicas con nivel, progreso, entrenamiento y beneficios](media/skills_panel.jpg)
+![El panel de habilidades: atributos derivados y habilidades físicas con nivel, progreso y beneficios](media/skills_panel.jpg)
 
 ### Recolectar, fabricar y construir
 Recoge bayas, setas y hierbas, corta leña, rompe piedra, pesca. Fabrica un hacha, una cantimplora, un espetón, un arco.
@@ -93,7 +94,8 @@ de la lluvia. Las casas se ven vividas: muros combados, madera blanqueada, musgo
 
 | | |
 |---|---|
-| ![Una casa de día, desgastada y habitada](media/house_exterior.jpg) | ![El interior de una casa con objetos y paja](media/house_interior.jpg) |
+| ![Una casa de Hedeby en una pradera bajo las alturas nevadas](media/house_exterior.jpg) | ![Dentro de la casa: bancos, paja y el hogar abierto](media/house_interior.jpg) |
+| ![El menú de construcción en la pestaña Granja: huerto, colmena y lazo](media/build_farm.jpg) | ![Huertos con los cultivos brotando y una colmena detrás](media/farm.jpg) |
 
 ## Vida en la tierra
 
@@ -105,7 +107,10 @@ en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman 
 
 | | |
 |---|---|
-| ![Apuntando con el arco a un ciervo a veinte metros](media/bow_aim.jpg) | ![Cuervos planeando](media/ravens.jpg) |
+| ![Ciervos rojos pastando al borde de un pinar](media/deer.jpg) | ![Un jabalí hozando en una pradera](media/boar.jpg) |
+| ![Una liebre de montaña en la hierba](media/hare.jpg) | ![Cuervos planeando](media/ravens.jpg) |
+
+![Apuntando con el arco a un ciervo rojo: tensión completa, el objetivo marcado y la tensión, la distancia y el objetivo sobre la barra](media/bow_aim.jpg)
 
 ### Aldeas
 En cada mundo hay hasta tres aldeas vikingas, con unas casas, un patio, un cofre de almacén y de dos a cuatro
@@ -117,10 +122,9 @@ noche.
 
 | | |
 |---|---|
-| ![El patio de una aldea](media/settlement_yard.jpg) | ![Un habitante de una aldea](media/inhabitant.jpg) |
-| ![El panel de conversación con un habitante](media/talk_panel.jpg) | ![Una aldea al anochecer entre los árboles, con la antorcha eterna junto a una puerta](media/settlement_dusk.jpg) |
-
-![Un gallinero con su cobertizo y sus gallinas](media/hen_pen.jpg)
+| ![Una aldea entre los árboles: casas, patio y gallinero](media/village.jpg) | ![Hablando con un habitante: la pestaña Contratar con el precio del trabajador, pagado en pescado](media/talk_hire.jpg) |
+| ![La misma conversación en la pestaña Trueque: huevos y plumas del gallinero](media/talk_barter.jpg) | ![Un gallinero con su cobertizo y sus gallinas](media/hen_pen.jpg) |
+| ![El panel de comercio de un mercader ambulante](media/merchant.jpg) | ![Una casa al anochecer, con la antorcha eterna junto a la puerta](media/torches_dusk.jpg) |
 
 ### Piedras en pie y runas
 Piedras rúnicas, piedras pintadas, bautasteinar, barcos de piedra y círculos de piedras se alzan en cimas y costas.
@@ -129,15 +133,15 @@ N) y su **bendición** te devuelve las tiradas de runas y te oculta de los anima
 juego de runas y **tíralo** desde el menú de fichas: la tirada del cazador dice dónde hay caza y la **tirada del
 viajero** señala la aldea más cercana que aún no has encontrado.
 
-![Acercándose a una piedra rúnica al anochecer: su grabado se ilumina y la bendición de sigilo aparece en la esquina](media/monolith_glow.gif)
+![Acercándose a una piedra rúnica por la tarde: su grabado se ilumina y la bendición de sigilo aparece en la esquina](media/monolith_glow.gif)
 
 | | |
 |---|---|
-| ![El menú de tirada de runas: la tirada del cazador y la del viajero](media/rune_menu.jpg) | ![Un barco de piedra, iluminado](media/stone_ship.jpg) |
+| ![El menú de tirada de runas: la tirada del cazador y la del viajero](media/rune_menu.jpg) | ![Un barco de piedra junto a la orilla al anochecer, con sus piedras iluminadas](media/stone_ship.jpg) |
 
 Los descubrimientos y otras noticias llegan como pequeños **avisos rúnicos** tallados en la esquina de la pantalla.
 
-![Avisos rúnicos apilados en la esquina de la pantalla](media/rune_notices.png)
+![Junto a una piedra iluminada: la línea de sigilo de la bendición sobre las barras, la tirada en reposo y la última lectura arriba](media/blessing.jpg)
 
 ### Thor y Mjölnir
 A veces el cielo responde. Se acumula el trueno, una figura se forma en las nubes y Thor dicta sentencia: puede
@@ -157,7 +161,7 @@ algunas sorpresas ocultas.
 Un personaje nuevo recibe un tutorial corto: un consejo cada vez, tachado al hacerlo, con tus propias teclas. Cada
 paso se puede saltar y «no volver a preguntar» lo aparta. Ajustes > General lo reinicia.
 
-![El primer paso del tutorial](media/tutorial.jpg)
+![La primera tarjeta del tutorial en la esquina: camina con W A S D y mira con el ratón](media/tutorial.jpg)
 
 ### Partida nueva, personaje nuevo o el mismo
 Empieza un mundo desde cero o arrastra las habilidades y el inventario de una partida anterior. Escribe cualquier
@@ -173,7 +177,7 @@ hunden en la madera, y el viento, las aves, las olas y el trueno siguen dónde e
 Elige el idioma en Ajustes; todos los menús, el mapa y los avisos cambian a la vez. Por defecto el juego sigue el
 idioma de tu sistema.
 
-![El mapa de la semilla alpha en español](media/map_es.jpg)
+![El mapa en español](media/map_es.jpg)
 
 ## Juntos
 
@@ -191,7 +195,7 @@ partida**. Chat con Enter, gestos con G.
 
 | | |
 |---|---|
-| ![Dos jugadores caminando juntos por el mismo mundo](media/coop_two_players.jpg) | ![Unirse a una partida desde la lista de anfitriones de la red local](media/lan_join.jpg) |
+| ![Dos jugadores en el mismo mundo: el invitado saluda al anfitrión](media/coop.jpg) | ![La pestaña Unirse con las partidas halladas en la red local (direcciones difuminadas aquí)](media/lan_join.jpg) |
 
 ### Administración del servidor
 Quien hace de autoridad (un servidor dedicado, un anfitrión o un solo jugador) puede servir un **panel de
@@ -200,7 +204,9 @@ teletransportar, tiempo, hora) y un registro de auditoría. Los **webhooks de Di
 (entradas, guardados, muertes, logros, descubrimientos) como mensajes con imágenes del mapa. Ambos están apagados hasta
 que los activas.
 
-![El panel de administración web: el mapa del mundo en vivo con sus aldeas, las capas y los controles del mundo](media/admin_web.jpg)
+| | |
+|---|---|
+| ![El panel de administración web con un servidor dedicado en marcha: el mapa en vivo, las barras de un jugador y los controles del mundo](media/admin_web.jpg) | ![La pestaña Discord del panel: el webhook (enmascarado), los eventos que se publican y el estado](media/admin_discord.jpg) |
 
 ### Mods
 Los paquetes de contenido son mods solo de datos que no ejecutan código: añaden ecosistemas, plantas, rocas, tiempo,
@@ -209,7 +215,7 @@ partículas, recetas, **estados de jugador**, **zonas** (áreas protegidas o de 
 
 | | |
 |---|---|
-| ![El menú principal sobre un bosque al amanecer](media/main_menu.jpg) | ![El cargador de arranque: el logo y el anillo de runas mientras empieza el juego](media/boot_loader.jpg) |
+| ![El menú principal sobre un bosque al amanecer; el reproductor de música de la esquina dice qué pieza suena](media/main_menu.jpg) | ![El cargador de arranque: el logo y el anillo de runas mientras empieza el juego](media/boot_loader.jpg) |
 
 ## Instalar
 
@@ -310,16 +316,16 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Together.** Co-op up to 4 over LAN, WAN or a dedicated server; a web admin dashboard with a live map; Discord
   webhooks; and data-only mods (ecosystems, plants, recipes, player states, zones, scheduled events, achievements).
 
-![Dawn over a generated world: Dawn Vales and Amber Groves below a snowy ridge, with the sea on the horizon](media/hero_dawn.jpg)
+![Golden hour over a generated world: a river winding through meadows to a lake below a snow-streaked peak, with the sea on the horizon](media/hero.jpg)
 
 | | |
 |---|---|
-| ![The inventory on its Cook tab at a campfire: a pot hung over the flames and mushrooms roasting on the spit](media/inventory_cook.jpg) | ![A hamlet at dusk among the trees, the eternal torch burning beside a door](media/settlement_dusk.jpg) |
-| ![The rune cast menu: the Hunter's cast and the Traveller's cast](media/rune_menu.jpg) | ![The achievements menu](media/achievements.jpg) |
+| ![Talking to a settlement inhabitant: the Hire tab with the worker's fee, paid in fish](media/talk_hire.jpg) | ![A house at dusk, the eternal torch burning beside its door](media/torches_dusk.jpg) |
+| ![The rune cast menu: the Hunter's cast and the Traveller's cast](media/rune_menu.jpg) | ![The build menu on its Farm tab: garden plot, beehive and snare](media/build_farm.jpg) |
 
 ![Thor's strike: a storm builds, lightning falls around the player, who is lifted toward the sky as Mjölnir forms out of lightning above](media/thor_strike.gif)
 
-![Walking up to a runestone at dusk: its carving lights up and the stealth blessing appears in the corner](media/monolith_glow.gif)
+![Walking up to a runestone in the evening: its carving lights up and the stealth blessing appears in the corner](media/monolith_glow.gif)
 
 <a id="install"></a>
 ### Install
