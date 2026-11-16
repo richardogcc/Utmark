@@ -9,7 +9,7 @@
   · <a href="#english">English below</a>
 </p>
 
-![Hora dorada sobre un mundo generado: un río serpentea entre praderas hasta un lago bajo un pico con nieve, con el mar en el horizonte](media/hero.jpg)
+![Hora dorada desde lo alto: un lago largo con un río serpenteante a sus pies, otro lago más pequeño al lado, colinas nevadas y el mar en el horizonte](media/hero.jpg)
 
 **Utmark** es un juego de supervivencia, exploración y construcción en una tierra salvaje del norte que aprendes a
 leer. El nombre es la palabra escandinava para la tierra de fuera de la cerca de la granja: la que no se cultiva sino
@@ -29,7 +29,8 @@ vikinga, cazas, comercias con las aldeas que encuentras, y a veces el cielo resp
 ### Un mundo que se puede leer
 Cada semilla da un mundo propio de unos 10 km: tierras e islas separadas por estrechos, crestas y mesetas, una costa
 irregular y algunas calderas. La misma semilla da siempre el mismo mundo, hasta el último árbol. Un viento dominante lo
-moldea: páramos secos a sotavento de las crestas, nieve en las laderas protegidas, enebros doblados. El mapa (M) se
+moldea: páramos secos a sotavento de las crestas, nieve en las laderas protegidas, enebros doblados. Las cumbres son redondeadas
+y gastadas, no agujas. El mapa (M) se
 dibuja como un mapa de campo, con curvas de nivel, escala y rosa de los vientos; acércalo a unos cientos de metros,
 pon marcadores y viaja con un clic.
 
@@ -38,15 +39,17 @@ pon marcadores y viaja con un clic.
 | ![Luz de tarde sobre las crestas nevadas de los Altos de Escarcha, sobre bosque abierto](media/snow_heights.jpg) | ![El mapa del juego a unos tres kilómetros del inicio: curvas de nivel, lagos, ríos, la rosa de los vientos y la escala a 500 m](media/map.jpg) |
 
 ### Ríos, lagos y siete ecosistemas
-Los ríos bajan hasta el mar y los lagos llenan las hondonadas: siempre hay agua a pocos pasos. Siete ecosistemas y el
-mar, elegidos por la propia tierra, cada uno con su suelo, sus plantas, su luz, su tiempo y su vida en el aire.
+Los ríos bajan hasta el mar y los lagos llenan las hondonadas: siempre hay agua a pocos pasos. Cada río sale de su
+lago a su mismo nivel y llega al siguiente lago, río o al mar sin muros de agua, huecos secos ni escalones, y el agua
+aparece entera al viajar. Siete ecosistemas y el mar, elegidos por la propia tierra, cada uno con su suelo, sus
+plantas, su luz, su tiempo y su vida en el aire.
 
 | | |
 |---|---|
 | ![Valles del Alba: una pradera con margaritas, campanillas y trébol en manchas, y las alturas al fondo](media/eco_dawn_vales.jpg)<br>**Valles del Alba**: praderas abrigadas con manchas de flores silvestres y bosque mixto. | ![Sotos de Ámbar: abedules de tronco claro y frondosas a contraluz con el sol de la tarde](media/eco_amber_groves.jpg)<br>**Sotos de Ámbar**: bosques de copa dorada en la cara húmeda de las crestas. |
 | ![Cuencas de Junco: espadañas y juncos bajo frondosas en una hondonada húmeda](media/eco_reed_basins.jpg)<br>**Cuencas de Junco**: hondonadas húmedas, mosquitos y luciérnagas de noche. | ![Páramos de Sílex: suelo claro y pedregoso, brezo y árboles sueltos bajo las crestas](media/eco_flint_moors.jpg)<br>**Páramos de Sílex**: brezal abierto a sotavento. |
 | ![Altos de Escarcha: una ladera escarchada con pinos bajo una cresta nevada](media/eco_rime_heights.jpg)<br>**Altos de Escarcha**: crestas frías y nieve a la deriva. | ![Costas de Sal: una playa de arena que se curva junto a un mar en calma](media/eco_salt_coasts.jpg)<br>**Costas de Sal**: dunas, calas y acantilados. |
-| ![Calderas de Ascua: suelo de ceniza y árboles muertos bajo un cielo brumoso](media/eco_ember_calderas.jpg)<br>**Calderas de Ascua**: raros puntos volcánicos de ceniza y fumarolas. | ![Un lago bajo las alturas, con juncos en la orilla](media/river_lake.jpg)<br>**Ríos y lagos**: el agua nunca queda lejos. |
+| ![Calderas de Ascua: suelo de ceniza y árboles muertos bajo un cielo brumoso](media/eco_ember_calderas.jpg)<br>**Calderas de Ascua**: raros puntos volcánicos de ceniza y fumarolas. | ![Un lago con el arroyo que entra por un lado y el que sale por el otro, ambos a su mismo nivel](media/lake_outlet.jpg)<br>**Ríos y lagos**: el agua nunca queda lejos. |
 
 Las Calderas de Ascua, raros puntos volcánicos de ceniza y fumarolas, completan los siete.
 
@@ -78,6 +81,17 @@ o dejar que un hogar de casa cocine tres platos a la vez.
 |---|---|
 | ![El inventario en la pestaña Fabricar: cada receta con lo que tienes y lo que falta](media/inventory_craft.jpg) | ![El inventario en la pestaña Cocinar junto a una hoguera: un plato en marcha y los platos listos para cocinar](media/inventory_cook.jpg) |
 
+### Cofres
+Construye un **cofre** de madera (12 huecos) o un **arcón marino** (24) desde la pestaña **Mobiliario** del menú de
+construcción y guarda en él tus cosas. Fabricar y cocinar usan también lo que hay en los cofres a 4 m de ti o de la
+hoguera: primero paga la mochila, y un pequeño **+N** muestra lo que pone un cofre.
+
+| | |
+|---|---|
+| ![Un cofre de madera en un rincón de la casa, a la luz de las antorchas de pared](media/chest_house.jpg) | ![El panel del cofre: sus huecos junto a la mochila, con Cogerlo todo y Guardar iguales](media/chest_panel.jpg) |
+
+![La pestaña Cocinar junto a una hoguera: cada plato cuenta lo de la mochila y un pequeño +1 del cofre de al lado](media/cook_from_chest.jpg)
+
 ### Mejora haciendo
 Dieciocho habilidades suben de 1 a 30 con el uso: corre y te cansas menos, tala y cada hachazo muerde más hondo,
 acércate agachado y los animales tardan más en notarte. La **herbolaria** da plantas extra por cada recogida. Los
@@ -100,9 +114,13 @@ de la lluvia. Las casas se ven vividas: muros combados, madera blanqueada, musgo
 ## Vida en la tierra
 
 ### Fauna y caza
-Ciervos, liebres y peces viven según el ecosistema al que pertenecen y te notan a una distancia que puedes acortar
-agachándote. Caza con lanza o **arco**: tensa, apunta, suelta, y la flecha cae con la distancia y se detiene en árboles,
-rocas y muros (las flechas necesitan una pluma). En lo alto, carboneros revolotean entre los árboles, lavanderas beben
+Ciervos, jabalíes, liebres y peces viven según el ecosistema al que pertenecen, y oyes llamar a ciervos, jabalíes y
+liebres cuando estás cerca. Te notan a una distancia que puedes acortar agachándote; un **ojo de sigilo** junto a la
+mira muestra lo cerca que estás de que te descubran. Con Caza 15 ves brillar las **huellas** recientes de los animales
+cerca de ti y hacia dónde fueron. Caza con lanza o **arco**: tensa, apunta, suelta, y la flecha cae con la distancia y
+se detiene en árboles, rocas y muros (las flechas necesitan una pluma). Un **jabalí** herido se defiende: se gira, carga
+y embiste. Un animal herido muestra su **barra de vida**, los otros jugadores su nombre y su vida, y un aviso rojo en el
+borde de la pantalla te dice de dónde viene el daño. En lo alto, carboneros revolotean entre los árboles, lavanderas beben
 en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman de noche.
 
 | | |
@@ -112,19 +130,28 @@ en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman 
 
 ![Apuntando con el arco a un ciervo rojo: tensión completa, el objetivo marcado y la tensión, la distancia y el objetivo sobre la barra](media/bow_aim.jpg)
 
+![Acercándose a unos ciervos: el ojo de sigilo junto a la mira pasa de tranquilo a receloso (amarillo) y a alerta (rojo)](media/stealth_eye.jpg)
+
+| | |
+|---|---|
+| ![Huellas de ciervo brillando al anochecer, alejándose entre los árboles](media/tracks_dusk.jpg) | ![Un jabalí herido carga y embiste al jugador: el aviso rojo señala de dónde vino el golpe](media/boar_charge.gif) |
+
 ### Aldeas
 En cada mundo hay hasta tres aldeas vikingas, con unas casas, un patio, un cofre de almacén y de dos a cuatro
 **habitantes** que duermen, comen y trabajan según una rutina diaria. Encuentra una y queda marcada en el mapa, con un
 contador de las halladas. Habla con un habitante: en la pestaña **Contratar** pagas a un trabajador en **pescado o
 pieles** para que recoja, tale o rompa rocas y abastezca el almacén; en **Trueque** cambias tus cosas por las suyas.
 Sus **gallineros** dan huevos y plumas. Una antorcha eterna arde junto a cada puerta, así que una aldea se distingue de
-noche.
+noche. Un **mercader ambulante** recorre el camino entre dos aldeas; cuando las conoces, el mapa lo muestra a él y su
+ruta comercial.
 
 | | |
 |---|---|
 | ![Una aldea entre los árboles: casas, patio y gallinero](media/village.jpg) | ![Hablando con un habitante: la pestaña Contratar con el precio del trabajador, pagado en pescado](media/talk_hire.jpg) |
 | ![La misma conversación en la pestaña Trueque: huevos y plumas del gallinero](media/talk_barter.jpg) | ![Un gallinero con su cobertizo y sus gallinas](media/hen_pen.jpg) |
 | ![El panel de comercio de un mercader ambulante](media/merchant.jpg) | ![Una casa al anochecer, con la antorcha eterna junto a la puerta](media/torches_dusk.jpg) |
+
+![El mapa con el mercader ambulante cerca de Birkiholt y su ruta comercial discontinua hasta Sandvik](media/merchant_map.jpg)
 
 ### Piedras en pie y runas
 Piedras rúnicas, piedras pintadas, bautasteinar, barcos de piedra y círculos de piedras se alzan en cimas y costas.
@@ -170,7 +197,8 @@ semilla o ajusta el mundo (tamaño, tierra, montañas, vegetación) y regéneral
 
 ### Música y sonido
 Trece piezas originales, entre ellas siete largas y ambientales (de tres minutos y medio a cuatro) para explorar, la
-noche, la costa, la montaña y el hogar, con largos silencios entre ellas. Los pasos siguen el suelo, las hachas se
+noche, la costa, la montaña y el hogar, con largos silencios entre ellas. La música no se para sola: solo cuando tú la
+paras. Los pasos siguen el suelo, las hachas se
 hunden en la madera, y el viento, las aves, las olas y el trueno siguen dónde estás y el tiempo.
 
 ### Español e inglés
@@ -196,6 +224,16 @@ partida**. Chat con Enter, gestos con G.
 | | |
 |---|---|
 | ![Dos jugadores en el mismo mundo: el invitado saluda al anfitrión](media/coop.jpg) | ![La pestaña Unirse con las partidas halladas en la red local (direcciones difuminadas aquí)](media/lan_join.jpg) |
+
+### Sincronización local
+Juega la misma partida en tus dos ordenadores de casa, siempre al día. Emparéjalos una vez con un código de 6 cifras
+en **Ajustes > General > Sincronización local**; desde entonces cada guardado llega al otro por la red local. La lista
+de mundos muestra el estado de cada uno (sincronizado, más nuevo aquí, conflicto...) y un conflicto nunca se mezcla:
+eliges tú.
+
+| | |
+|---|---|
+| ![Ajustes > General > Sincronización local: el nombre de este PC, el código de emparejamiento y el PC emparejado en línea](media/lan_sync_settings.jpg) | ![La lista de mundos con su estado de sincronización: conflicto, más nuevo aquí y sincronizado](media/lan_sync_worlds.jpg) |
 
 ### Administración del servidor
 Quien hace de autoridad (un servidor dedicado, un anfitrión o un solo jugador) puede servir un **panel de
@@ -269,7 +307,7 @@ por qué no se puede cargar y ofrece uno nuevo con la misma semilla.
 Hecho con [Godot](https://godotengine.org) por **Richardo G. Cibea M.** Las mallas del mundo, los shaders y la marca
 son originales, generados por código. El personaje parte de los *Universal Base Characters* y la *Universal Animation
 Library* de Quaternius (CC0); los efectos de sonido y ambientes son CC0. La música es original de Utmark (*Utmark —
-Original Soundtrack*, © Richardo G.C., todos los derechos reservados), interpretada con muestras CC0.
+Original Soundtrack*, © Richardo G. Cibea M., todos los derechos reservados), interpretada con muestras CC0.
 Este repositorio solo contiene las versiones publicadas del juego; el código fuente no es público.
 
 ---
@@ -290,7 +328,8 @@ trade with the hamlets you find, and sometimes the sky answers.
 with up to 4 players. New versions arrive through the in-game updater ([Install](#install)).
 
 ### What you will find
-- **A world you can read.** Seeded worlds of about 10 km: islands, ridges, rivers that run to the sea, lakes, and
+- **A world you can read.** Seeded worlds of about 10 km: islands, ridges, rivers that run to the sea, lakes
+  (every river leaves its lake at the lake's level, no walls of water), and
   seven ecosystems (Dawn Vales, Amber Groves, Reed Basins, Flint Moors, Rime Heights, Salt Coasts and the rare Ember
   Calderas) chosen by the land itself. The same seed always gives the same world. A field-style map with contours, a
   scale bar and a wind rose, zoomable to a few hundred metres, with markers and click-to-travel.
@@ -299,29 +338,42 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   rain. If you die, your things wait in a Viking cairn marked on the map.
 - **Inventory, Craft and Cook.** Tab opens it without pausing the world. Cook becomes the cooking menu of the fire you
   stand at: spit, hanging pot, or a house hearth cooking three dishes at once.
+- **Chests.** A wooden chest (12 slots) or a sea chest (24) from the Furniture tab. Crafting and cooking draw on the
+  chests within 4 m of you or the fire: a small +N shows what a chest adds.
 - **Get better by doing.** Eighteen skills from 1 to 30, with golden milestones at 10, 20 and 30.
 - **Build.** Stone foundations, log walls, doors, floors, beams, stairs, shingled roofs, torches and a hearth with a
   chimney. Pieces snap into place and every piece needs a chain of supports to the ground.
-- **Fauna and hunting.** Deer, hares, fish; spear or **bow** (arrows drop over distance and stop at obstacles);
-  tits, wagtails, ravens and owls overhead.
+- **Fauna and hunting.** Deer, boars, hares, fish; spear or **bow** (arrows drop over distance and stop at
+  obstacles); tits, wagtails, ravens and owls overhead. Animals call when you are near; a stealth eye by the
+  crosshair shows how close you are to being found; with Hunting 15 fresh tracks glow; a hurt boar charges back.
+  Health bars on wounded animals, names and health over other players, and a hint of where a blow came from.
 - **Settlements.** Up to three Viking hamlets per world with inhabitants on a daily routine: hire workers (paid in
-  fish or hides), barter, collect eggs and feathers from their hen pens. An eternal torch burns by every door.
+  fish or hides), barter, collect eggs and feathers from their hen pens. An eternal torch burns by every door. A travelling
+  merchant and his trade route show on the map.
 - **Standing stones and runes.** Runestones, picture stones, stone ships and circles. Their blessing restores your
   rune casts and hides you from animals; the Hunter's cast finds game and the Traveller's cast points to the nearest
   undiscovered settlement. News arrives as carved rune notices.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
-  pieces (seven long ambient ones), and sound that follows the ground, the weather and where you are.
+  pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
+  ground, the weather and where you are.
 - **English and Spanish.** Pick the language in Settings; by default the game follows your system.
-- **Together.** Co-op up to 4 over LAN, WAN or a dedicated server; a web admin dashboard with a live map; Discord
+- **Together.** Co-op up to 4 over LAN, WAN or a dedicated server; **LAN sync** keeps one single-player world up to
+  date on your two computers at home; a web admin dashboard with a live map; Discord
   webhooks; and data-only mods (ecosystems, plants, recipes, player states, zones, scheduled events, achievements).
 
-![Golden hour over a generated world: a river winding through meadows to a lake below a snow-streaked peak, with the sea on the horizon](media/hero.jpg)
+![Golden hour from above: a long lake with a winding river at its foot, a smaller lake beside it, snow-capped hills and the sea on the horizon](media/hero.jpg)
 
 | | |
 |---|---|
 | ![Talking to a settlement inhabitant: the Hire tab with the worker's fee, paid in fish](media/talk_hire.jpg) | ![A house at dusk, the eternal torch burning beside its door](media/torches_dusk.jpg) |
 | ![The rune cast menu: the Hunter's cast and the Traveller's cast](media/rune_menu.jpg) | ![The build menu on its Farm tab: garden plot, beehive and snare](media/build_farm.jpg) |
+| ![The Cook tab at a campfire: each dish counts what the bag holds plus a small +1 from the chest beside the fire](media/cook_from_chest.jpg) | ![The map with the travelling merchant near Birkiholt and his dashed trade route to Sandvik](media/merchant_map.jpg) |
+| ![Glowing deer tracks at dusk, leading off between the trees](media/tracks_dusk.jpg) | ![The world list with sync badges: Conflict, Newer here and Synced](media/lan_sync_worlds.jpg) |
+
+![Creeping up on deer: the stealth eye by the crosshair goes from calm to suspicious (yellow) to alert (red)](media/stealth_eye.jpg)
+
+![A wounded boar charges and gores the player: the red hint shows where the blow came from](media/boar_charge.gif)
 
 ![Thor's strike: a storm builds, lightning falls around the player, who is lifted toward the sky as Mjölnir forms out of lightning above](media/thor_strike.gif)
 
@@ -365,5 +417,5 @@ offers a new one with the same seed.
 Made with [Godot](https://godotengine.org) by **Richardo G. Cibea M.** All world meshes, shaders and branding are
 original, generated by code. The character is based on Quaternius' *Universal Base Characters* and *Universal
 Animation Library* (CC0); sound effects and ambiences are CC0. The music is original (*Utmark — Original Soundtrack*,
-© Richardo G.C., all rights reserved), played with CC0 samples. This repository only holds the published builds; the
+© Richardo G. Cibea M., all rights reserved), played with CC0 samples. This repository only holds the published builds; the
 source code is not public.
