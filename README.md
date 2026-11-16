@@ -114,6 +114,7 @@ B abre el menú de construcción: cimientos de piedra, muros de troncos, puertas
 tablillas, **antorchas** de pie y de pared y un **hogar** de piedra con chimenea. Las piezas encajan solas y nada
 flota: cada pieza necesita una cadena de apoyos hasta el suelo. Enciende una **hoguera** desde un kit; un techo guarda
 de la lluvia. Las casas se ven vividas: muros combados, madera blanqueada, musgo, escudos, un telar y paja dentro.
+Construir junto a una base grande pesa menos.
 
 | | |
 |---|---|
@@ -162,7 +163,7 @@ contador de las halladas. Habla con un habitante: en la pestaña **Contratar** p
 pieles** para que recoja, tale o rompa rocas y abastezca el almacén; en **Trueque** cambias tus cosas por las suyas.
 Sus **gallineros** dan huevos y plumas. Una antorcha eterna arde junto a cada puerta, así que una aldea se distingue de
 noche. Un **mercader ambulante** recorre el camino entre dos aldeas; cuando las conoces, el mapa lo muestra a él y su
-ruta comercial.
+ruta comercial. Los paneles del mercader, la conversación y el almacén se actualizan en vivo, con el **+N** de los cofres cercanos.
 
 | | |
 |---|---|
@@ -222,7 +223,7 @@ hunden en la madera, y el viento, las aves, las olas y el trueno siguen dónde e
 
 ### Español e inglés
 Elige el idioma en Ajustes; todos los menús, el mapa y los avisos cambian a la vez. Por defecto el juego sigue el
-idioma de tu sistema.
+idioma de tu sistema. Las filas de Ajustes (gráficos, idioma, nombre, HUD, avisos) comparten ahora un mismo diseño.
 
 ![El mapa en español](media/map_es.jpg)
 
@@ -257,7 +258,7 @@ eliges tú.
 ### Administración del servidor
 Quien hace de autoridad (un servidor dedicado, un anfitrión o un solo jugador) puede servir un **panel de
 administración web**: un mapa en vivo del mundo, los jugadores conectados, acciones de administración (expulsar,
-teletransportar, tiempo, hora) y un registro de auditoría. Los **webhooks de Discord** publican eventos del servidor
+teletransportar, tiempo, hora y **velocidad del tiempo**) y un registro de auditoría. Los **webhooks de Discord** publican eventos del servidor
 (entradas, guardados, muertes, logros, descubrimientos) como mensajes con imágenes del mapa. Ambos están apagados hasta
 que los activas.
 
@@ -367,7 +368,8 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   menus shows what the chests add.
 - **Get better by doing.** Eighteen skills from 1 to 30, with golden milestones at 10, 20 and 30.
 - **Build.** Stone foundations, log walls, doors, floors, beams, stairs, shingled roofs, torches and a hearth with a
-  chimney. Pieces snap into place and every piece needs a chain of supports to the ground.
+  chimney. Pieces snap into place and every piece needs a chain of supports to the ground. Building near a large base
+  is lighter.
 - **Terraforming.** Craft a shovel (1 log, 2 stones, 2 reeds): left click digs and gives soil, right click raises
   ground and spends it, F flattens to your feet. Saved with the world and shared in co-op. Not in settlements, by
   monoliths, in lakes, rivers and their banks, on the coast, or under builds and objects.
@@ -377,7 +379,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   Health bars on wounded animals, names and health over other players, and a hint of where a blow came from.
 - **Settlements.** Up to three Viking hamlets per world with inhabitants on a daily routine: hire workers (paid in
   fish or hides), barter, collect eggs and feathers from their hen pens. An eternal torch burns by every door. A travelling
-  merchant and his trade route show on the map.
+  merchant and his trade route show on the map. Merchant, talk and store panels update live, with the +N from chests.
 - **Standing stones and runes.** Runestones, picture stones, stone ships and circles. Their blessing restores your
   rune casts and hides you from animals; the Hunter's cast finds game and the Traveller's cast points to the nearest
   undiscovered settlement. News arrives as carved rune notices.
@@ -385,9 +387,10 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
   pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
   ground, the weather and where you are.
-- **English and Spanish.** Pick the language in Settings; by default the game follows your system.
+- **English and Spanish.** Pick the language in Settings; by default the game follows your system. The Settings rows
+  share one rebuilt layout.
 - **Together.** Co-op up to 4 over LAN, WAN or a dedicated server; **LAN sync** keeps one single-player world up to
-  date on your two computers at home; a web admin dashboard with a live map and a resource density layer; Discord
+  date on your two computers at home; a web admin dashboard with a live map, a resource density layer and a time-speed control; Discord
   webhooks; and data-only mods (ecosystems, plants, recipes, player states, zones, scheduled events, achievements).
 
 ![Golden hour from above: a long lake with a winding river at its foot, a smaller lake beside it, snow-capped hills and the sea on the horizon](media/hero.jpg)
