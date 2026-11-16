@@ -38,6 +38,10 @@ pon marcadores y viaja con un clic.
 |---|---|
 | ![Luz de tarde sobre las crestas nevadas de los Altos de Escarcha, sobre bosque abierto](media/snow_heights.jpg) | ![El mapa del juego a unos tres kilómetros del inicio: curvas de nivel, lagos, ríos, la rosa de los vientos y la escala a 500 m](media/map.jpg) |
 
+El mapa conoce todo el mundo desde el primer minuto: cada piedra en pie y cada aldea están en él desde el inicio de la partida, así que puedes planear un viaje antes de dar un paso.
+
+![El mapa con todas las piedras en pie y aldeas del mundo desde el inicio de la partida](media/atlas_map.png)
+
 ### Ríos, lagos y siete ecosistemas
 Los ríos bajan hasta el mar y los lagos llenan las hondonadas: siempre hay agua a pocos pasos. Cada río sale de su
 lago a su mismo nivel y llega al siguiente lago, río o al mar sin muros de agua, huecos secos ni escalones, y el agua
@@ -252,6 +256,10 @@ teletransportar, tiempo, hora) y un registro de auditoría. Los **webhooks de Di
 (entradas, guardados, muertes, logros, descubrimientos) como mensajes con imágenes del mapa. Ambos están apagados hasta
 que los activas.
 
+El mapa tiene además una capa de **Densidad de recursos**: por zona muestra cuánto de cada recurso hay y cuánto queda tras recolectar.
+
+![La capa Densidad de recursos del panel web: cuánto queda de un recurso en cada zona del mundo](media/atlas_admin_density.png)
+
 | | |
 |---|---|
 | ![El panel de administración web con un servidor dedicado en marcha: el mapa en vivo, las barras de un jugador y los controles del mundo](media/admin_web.jpg) | ![La pestaña Discord del panel: el webhook (enmascarado), los eventos que se publican y el estado](media/admin_discord.jpg) |
@@ -343,6 +351,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   seven ecosystems (Dawn Vales, Amber Groves, Reed Basins, Flint Moors, Rime Heights, Salt Coasts and the rare Ember
   Calderas) chosen by the land itself. The same seed always gives the same world. A field-style map with contours, a
   scale bar and a wind rose, zoomable to a few hundred metres, with markers and click-to-travel.
+  Every standing stone and settlement is on the map from the start of the session.
 - **Weather with a cause.** Nine kinds, from fog to gale, blizzard and ashfall, with storms, lightning, rising surf.
 - **Survive.** Health, hunger and thirst; 40-minute days; fill flasks at rivers, boil lake water, dig wells, catch
   rain. If you die, your things wait in a Viking cairn marked on the map.
@@ -372,7 +381,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   ground, the weather and where you are.
 - **English and Spanish.** Pick the language in Settings; by default the game follows your system.
 - **Together.** Co-op up to 4 over LAN, WAN or a dedicated server; **LAN sync** keeps one single-player world up to
-  date on your two computers at home; a web admin dashboard with a live map; Discord
+  date on your two computers at home; a web admin dashboard with a live map and a resource density layer; Discord
   webhooks; and data-only mods (ecosystems, plants, recipes, player states, zones, scheduled events, achievements).
 
 ![Golden hour from above: a long lake with a winding river at its foot, a smaller lake beside it, snow-capped hills and the sea on the horizon](media/hero.jpg)
