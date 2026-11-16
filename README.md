@@ -111,6 +111,16 @@ de la lluvia. Las casas se ven vividas: muros combados, madera blanqueada, musgo
 | ![Una casa de Hedeby en una pradera bajo las alturas nevadas](media/house_exterior.jpg) | ![Dentro de la casa: bancos, paja y el hogar abierto](media/house_interior.jpg) |
 | ![El menú de construcción en la pestaña Granja: huerto, colmena y lazo](media/build_farm.jpg) | ![Huertos con los cultivos brotando y una colmena detrás](media/farm.jpg) |
 
+### Terraformación
+Fabrica una **pala** (1 tronco, 2 piedras, 2 juncos). Clic izquierdo cava y te da tierra, clic derecho levanta el
+terreno y la gasta, F allana a la altura de tus pies. Lo cavado se guarda con la partida y lo ven todos en
+cooperativo. No se puede en aldeas, junto a monolitos, en lagos, ríos ni sus orillas, en la costa, ni bajo
+construcciones u objetos.
+
+| | |
+|---|---|
+| ![Un foso, un montículo y un anillo de maleza hechos con la pala](media/terraform_pit_mound.jpg) | ![Cavando un foso con la pala](media/terraform_dig.gif) |
+
 ## Vida en la tierra
 
 ### Fauna y caza
@@ -343,6 +353,9 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Get better by doing.** Eighteen skills from 1 to 30, with golden milestones at 10, 20 and 30.
 - **Build.** Stone foundations, log walls, doors, floors, beams, stairs, shingled roofs, torches and a hearth with a
   chimney. Pieces snap into place and every piece needs a chain of supports to the ground.
+- **Terraforming.** Craft a shovel (1 log, 2 stones, 2 reeds): left click digs and gives soil, right click raises
+  ground and spends it, F flattens to your feet. Saved with the world and shared in co-op. Not in settlements, by
+  monoliths, in lakes, rivers and their banks, on the coast, or under builds and objects.
 - **Fauna and hunting.** Deer, boars, hares, fish; spear or **bow** (arrows drop over distance and stop at
   obstacles); tits, wagtails, ravens and owls overhead. Animals call when you are near; a stealth eye by the
   crosshair shows how close you are to being found; with Hunting 15 fresh tracks glow; a hurt boar charges back.
@@ -370,6 +383,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 | ![The rune cast menu: the Hunter's cast and the Traveller's cast](media/rune_menu.jpg) | ![The build menu on its Farm tab: garden plot, beehive and snare](media/build_farm.jpg) |
 | ![The Cook tab at a campfire: each dish counts what the bag holds plus a small +1 from the chest beside the fire](media/cook_from_chest.jpg) | ![The map with the travelling merchant near Birkiholt and his dashed trade route to Sandvik](media/merchant_map.jpg) |
 | ![Glowing deer tracks at dusk, leading off between the trees](media/tracks_dusk.jpg) | ![The world list with sync badges: Conflict, Newer here and Synced](media/lan_sync_worlds.jpg) |
+| ![A pit, a mound and a brush ring dug and raised with the shovel](media/terraform_pit_mound.jpg) | ![Digging a pit with the shovel](media/terraform_dig.gif) |
 
 ![Creeping up on deer: the stealth eye by the crosshair goes from calm to suspicious (yellow) to alert (red)](media/stealth_eye.jpg)
 
