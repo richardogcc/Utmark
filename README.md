@@ -216,7 +216,7 @@ cubre, la niebla se arrastra por el suelo y la luz se apaga, pero no llueve.
 La entrada es una **puerta de runas** desgastada: muros de piedra seca llevan hasta runas del futhark antiguo que
 brillan y un vórtice oscuro. Entra y desciendes. Dentro, el túmulo es una cueva propia, distinta bajo cada colina:
 pasadizos de piedra seca con ofrendas, vetas de cristal, túneles iluminados por las antorchas de pared del mundo y un
-cofre en la cámara más profunda, guardado por **draugar**. Otra puerta de runas igual, dentro, te saca de nuevo al
+cofre en la cámara más profunda (lo abres y eliges qué llevarte), guardado por **draugar**. Otra puerta de runas igual, dentro, te saca de nuevo al
 cruzarla.
 
 | | |
@@ -476,7 +476,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   mouth. The air turns eerie (overcast, ground mist, muted light, no rain). The way in is a weathered **rune door** with
   glowing Elder Futhark runes and a dark vortex: walk in to descend, and a matching door inside takes you out. Inside is
   a cave world unique to each barrow: dry-stone passages with offerings, crystal veins, wall-torch light and a chest of
-  eight new gems and jewels (merchants buy them) in the deepest chamber, guarded by draugar that roar, chase, strike,
+  eight new gems and jewels (merchants buy them; open it and pick what to take) in the deepest chamber, guarded by draugar that roar, chase, strike,
   sometimes enrage, can leave a rotting drain and regenerate only very slowly. Barrows remember what you took and
   restock after a few in-game days; underground there is no rain, sky or surface sound, and co-op players in a cave see
   each other. Hunt more than fourteen animals in a day and there is a 1-in-100 chance at dusk of a **red moon**: until
