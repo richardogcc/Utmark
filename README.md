@@ -190,7 +190,7 @@ Los descubrimientos y otras noticias llegan como pequeños **avisos rúnicos** t
 
 ![Junto a una piedra iluminada: la línea de sigilo de la bendición sobre las barras, la tirada en reposo y la última lectura arriba](media/blessing.jpg)
 
-### Túmulos, draugar y la Mare
+### Túmulos y draugar
 En lo más denso del bosque se alzan túmulos funerarios: unos diez por cada 5 km de mundo, que aparecen en el mapa al
 encontrarlos. Tumbas vikingas, piedras rúnicas y un barco de piedra rodean cada túmulo, y en su boca está el
 **haugbúi**, un rey-túmulo no muerto atado a su colina, con niebla fría a los pies.
@@ -208,16 +208,13 @@ de la superficie; el mapa dice «Subterráneo» y los jugadores cooperativos de 
 
 ![El tesoro en la cámara más profunda de un túmulo](media/cave_hoard.jpg)
 
-**La luna roja.** Si cazas más de tres presas (liebres, jabalíes o ciervos) en un día, al anochecer hay una
-probabilidad entre cien de que la luna se vuelva roja como la sangre. Cada cazador tiene entonces un 50 % de que **la
-Mare** le visite hacia medianoche. Te mira fijamente; quedas paralizado y solo puedes gritar (Espacio). Su marca te deja
-a media salud (nunca mata), se lleva una unidad de tu objeto más valioso y te impide correr durante 10 minutos reales.
-También puede venir bajo tierra. Los administradores pueden forzar una luna roja desde la web de administración.
+**La luna roja.** Si cazas más de catorce presas (liebres, jabalíes o ciervos) en un día, al anochecer hay una
+probabilidad entre cien de que la luna se vuelva roja como la sangre. La noche se tiñe con ella y, hasta el amanecer,
+nadie en el mundo puede dormir ni correr: las camas te rechazan («La luna roja no te deja dormir»), quien ya estaba
+acostado se despierta y una línea de estado bajo las barras te lo recuerda. Al amanecer todo vuelve a la normalidad.
+Los administradores pueden forzar una luna roja desde la web de administración.
 
-![La Mare mirando fijamente a un jugador paralizado bajo la luna roja](media/mare_stare_red_moon.jpg)
-
-Los no muertos y la Mare usan modelos con licencia (Quaternius CC0 y MakeHuman CC0, con dos piezas CC BY 4.0),
-acreditados en el juego, en Créditos.
+Los no muertos usan modelos con licencia (Quaternius CC0), acreditados en el juego, en Créditos.
 
 ### Thor y Mjölnir
 A veces el cielo responde. Se acumula el trueno, una figura se forma en las nubes y Thor dicta sentencia: puede
@@ -359,7 +356,7 @@ por qué no se puede cargar y ofrece uno nuevo con la misma semilla.
 ## Créditos
 Hecho con [Godot](https://godotengine.org) por **Richardo G. Cibea M.** Las mallas del mundo, los shaders y la marca
 son originales, generados por código. El personaje parte de los *Universal Base Characters* y la *Universal Animation
-Library* de Quaternius (CC0); los no muertos y la Mare, de Quaternius y MakeHuman (CC0, con dos piezas CC BY 4.0: vestido de punkduck y pelo de 04saken); los efectos de sonido y ambientes son CC0. La música es original de Utmark (*Utmark —
+Library* de Quaternius (CC0); los no muertos, de Quaternius (CC0); los efectos de sonido y ambientes son CC0. La música es original de Utmark (*Utmark —
 Original Soundtrack*, © Richardo G. Cibea M., todos los derechos reservados), interpretada con muestras CC0.
 Este repositorio solo contiene las versiones publicadas del juego; el código fuente no es público.
 
@@ -412,15 +409,14 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Standing stones and runes.** Runestones, picture stones, stone ships and circles. Their blessing restores your
   rune casts and hides you from animals; the Hunter's cast finds game and the Traveller's cast points to the nearest
   undiscovered settlement. News arrives as carved rune notices.
-- **Barrows, draugar and the Mare.** Burial mounds in the densest forests (about ten per 5 km, on the map once found),
+- **Barrows and draugar.** Burial mounds in the densest forests (about ten per 5 km, on the map once found),
   ringed by Viking graves, rune stones and a stone ship, with a haugbúi, an undead barrow-king, at the mouth. Inside is
   a cave world unique to each barrow: torch-lit tunnels, crystal veins and a chest of eight new gems and jewels
   (merchants buy them) in the deepest chamber, guarded by draugar that roar, chase, strike, sometimes enrage and can
   leave a rotting drain. Barrows remember what you took and restock after a few in-game days; underground there is no
-  rain, sky or surface sound, and co-op players in a cave see each other. Hunt more than three animals in a day and
-  there is a 1-in-100 chance at dusk of a **red moon**; each hunter then has a 50% chance that **the Mare** visits at
-  midnight: you are frozen and can only scream (Space), and her mark leaves you at half health (never kills), takes one
-  unit of your most valuable item and stops sprinting for 10 real minutes.
+  rain, sky or surface sound, and co-op players in a cave see each other. Hunt more than fourteen animals in a day and
+  there is a 1-in-100 chance at dusk of a **red moon**: until dawn nobody in the world can sleep or sprint (beds refuse
+  you, anyone lying down is woken, a status line shows it), and at dawn it lifts.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
   pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
@@ -436,8 +432,6 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 ![The haugbúi at the mouth of his mound at dusk, with cold mist at his feet](media/haugbui_mound_mouth_mist.jpg)
 
 ![The hoard in the deepest chamber of a barrow](media/cave_hoard.jpg)
-
-![The Mare staring at a frozen player under a red moon](media/mare_stare_red_moon.jpg)
 
 ![Golden hour from above: a long lake with a winding river at its foot, a smaller lake beside it, snow-capped hills and the sea on the horizon](media/hero.jpg)
 
@@ -494,6 +488,6 @@ offers a new one with the same seed.
 ### Credits
 Made with [Godot](https://godotengine.org) by **Richardo G. Cibea M.** All world meshes, shaders and branding are
 original, generated by code. The character is based on Quaternius' *Universal Base Characters* and *Universal
-Animation Library* (CC0); the undead and the Mare are based on Quaternius and MakeHuman assets (CC0, with two CC BY 4.0 parts: the dress by punkduck and the hair by 04saken); sound effects and ambiences are CC0. The music is original (*Utmark — Original Soundtrack*,
+Animation Library* (CC0); the undead are based on Quaternius assets (CC0); sound effects and ambiences are CC0. The music is original (*Utmark — Original Soundtrack*,
 © Richardo G. Cibea M., all rights reserved), played with CC0 samples. This repository only holds the published builds; the
 source code is not public.
