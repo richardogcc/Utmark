@@ -190,6 +190,21 @@ Los descubrimientos y otras noticias llegan como pequeños **avisos rúnicos** t
 
 ![Junto a una piedra iluminada: la línea de sigilo de la bendición sobre las barras, la tirada en reposo y la última lectura arriba](media/blessing.jpg)
 
+### Combate y herrería
+El hierro sale del pantano. El **hierro de turbera**, pardo rojizo, aparece en los bordes húmedos de las Cuencas de
+Junco. Construye un **bajo horno** (un horno de arcilla: 3 de mineral y 2 troncos dan un lingote) y una **fragua** (un
+hogar con fuelle y un yunque sobre un tocón), y fabrica en la fragua el **seax**, el **hacha barbuda**, la **lanza de
+hierro**, la **espada** y el **escudo redondo**. El clic izquierdo golpea; mantenlo para un golpe cargado. El clic
+derecho levanta el escudo: un golpe recibido justo al subirlo se desvía, uno posterior se frena casi del todo y uno
+por la espalda no. El hierro frío hiere más a los no muertos. Las armas se desgastan (el borde de la barra rápida es el
+medidor) y se arreglan en la fragua. **Cuerpo a cuerpo** y **Bloqueo** son habilidades nuevas.
+
+| | |
+|---|---|
+| ![Un tajo de espada alcanza a un draugr, con el escudo redondo en el brazo izquierdo](media/sword_hits_draugr.jpg) | ![El escudo en alto frente a un draugr](media/shield_block.jpg) |
+
+![La fragua: un yunque sobre un tocón junto al hogar](media/forge_close.jpg)
+
 ### Túmulos y draugar
 En lo más denso del bosque se alzan túmulos funerarios: unos diez por cada 5 km de mundo, que aparecen en el mapa al
 encontrarlos. Los túmulos, altos y rodeados de piedras de lindero, tumbas vikingas, piedras rúnicas y un barco de piedra,
@@ -237,13 +252,20 @@ o más te achispas. Los mercaderes comercian con hidromiel, así que un barril l
 ### Barcos
 Dos barcos, y solo se compran con **gemas de túmulo**. Los pescadores y carpinteros de las aldeas los venden en la
 pestaña **Barcos**: el **færing**, una barca pequeña de remos, y el **karve**, que rema y además lleva una vela
-cuadra. Con viento favorable el karve navega solo. El viento se ve en tres sitios: un **dial de viento** junto a la
-brújula, una **cinta** en lo alto del mástil y la propia vela, que se hincha o flamea. Los pasajeros caminan por la
-cubierta mientras navegas. Los barcos se dañan y se reparan con troncos, llevan carga y aparecen en el mapa.
+cuadra. La compra llega como un **barco plegado** en la mochila: tenlo en la mano, apunta a cualquier agua (el
+fantasma se ve verde donde cabe y rojo donde no) y colócalo. Apunta a tu barco y pulsa **Z** para plegarlo de nuevo;
+**Tab** abre su carga, como en una hoguera. Con viento favorable el karve navega solo. El viento se ve en tres
+sitios: una pequeña **flecha bajo la brújula** mientras vas a bordo, de color según lo bien que la vela coge el
+viento; una **cinta** en lo alto del mástil y la propia vela, que se hincha o flamea. Al timón, **W** sube la marcha
+(punto muerto, 1, 2, 3) y **S** la baja hasta marcha atrás, en un arco curvo con un marcador que se desliza. Los
+pasajeros caminan por la cubierta mientras navegas. Los barcos se dañan y se reparan con troncos, y aparecen en el mapa.
 
 | | |
 |---|---|
-| ![Un karve con su vela a rayas, visto desde popa en mar abierto](media/karve_from_astern.jpg) | ![Navegando: el dial de viento junto a la brújula y la cinta en lo alto del mástil](media/wind_hud.jpg) |
+| ![Un karve con su vela a rayas, visto desde popa en mar abierto](media/karve_from_astern.jpg) | ![Navegando: la flecha de viento y el arco de marchas bajo la brújula, el karve a toda vela bajo la lluvia](media/boat_gears.jpg) |
+| ![Un færing plegado en la barra rápida: su fantasma se ve verde sobre el agua](media/boat_ghost_green.jpg) | ![Apuntando a un færing colocado: Subir a bordo, Z Plegar y Tab Abrir la carga](media/boat_prompt_keys.jpg) |
+
+![El panel de carga de un færing: sus huecos junto a la mochila](media/boat_cargo_panel.jpg)
 
 ![La pestaña Barcos de un carpintero de aldea: el færing y el karve, con su precio en gemas](media/settlement_boats_es.jpg)
 
@@ -370,11 +392,14 @@ Historial de cambios: [Releases](../../releases).
 |---|---|
 | W A S D, ratón | Moverse y mirar |
 | Espacio · Mayús · Ctrl | Saltar (volar arriba) · correr · agacharse (volar abajo) |
-| Tab | Inventario, Fabricar y Cocinar |
+| Tab | Inventario, Fabricar y Cocinar · ante un barco, su carga |
 | B | Construir (R gira, E coloca, Z desmonta) |
+| W · S al timón | Subir · bajar la marcha del barco |
+| Z ante tu barco | Plegarlo de nuevo |
 | E / F | Usar (coger, abrir, llenar, añadir leña) · F enciende o apaga un fuego o antorcha |
 | 1–9, 0 | Barra rápida |
-| Clic derecho | Comer o beber lo que llevas en la mano |
+| Clic derecho | Comer o beber lo que llevas en la mano · levantar el escudo |
+| Clic izquierdo | Golpear con un arma (mantén para un golpe cargado) |
 | M · N · C | Mapa · habilidades · apariencia |
 | Enter · G | Chat · gestos |
 | Esc · F1 | Pausa · Ajustes > Controles (todo se puede reasignar) |
@@ -382,7 +407,8 @@ Historial de cambios: [Releases](../../releases).
 ## Hoja de ruta
 Próximamente: **terraformación** (cavar y modelar el terreno), supervivencia más profunda, agricultura y más cosas que
 construir y combatir. El generador del mundo puede cambiar entre versiones: un mundo de un generador anterior te dice
-por qué no se puede cargar y ofrece uno nuevo con la misma semilla.
+por qué no se puede cargar y ofrece uno nuevo con la misma semilla. Las partidas se abren aunque tengan contenido de más o de versiones
+anteriores; solo un formato realmente más nuevo se rechaza, y dice qué falta.
 
 ## Créditos
 Hecho con [Godot](https://godotengine.org) por **Richardo G. Cibea M.** Las mallas del mundo, los shaders y la marca
@@ -440,6 +466,11 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Standing stones and runes.** Runestones, picture stones, stone ships and circles. Their blessing restores your
   rune casts and hides you from animals; the Hunter's cast finds game and the Traveller's cast points to the nearest
   undiscovered settlement. News arrives as carved rune notices.
+- **Combat and the smithy.** Bog iron from the edges of the Reed Basins, a **bloomery** (3 ore and 2 logs, one
+  iron bar) and a **forge**; at the forge craft the **seax**, **bearded axe**, **iron spear**, **sword** and **round
+  shield**. Left click swings (hold for a heavy blow); right click raises the shield: parry a blow as it goes up, stop
+  most of a later one, nothing from behind. Cold iron hits the undead harder. Weapons wear and are mended at the
+  forge; Melee and Blocking are new skills.
 - **Barrows and draugar.** Tall burial mounds in the densest forests (about ten per 5 km, on the map once found),
   ringed by kerb stones, Viking graves, rune stones and a stone ship, with a haugbúi, an undead barrow-king, at the
   mouth. The air turns eerie (overcast, ground mist, muted light, no rain). The way in is a weathered **rune door** with
@@ -454,9 +485,11 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Mead.** Build a mead barrel, brew honey plus water (berry mead optionally) for an in-game day and tap it. Drinking
   warms you: stamina and faster healing; three or more and you get tipsy. Merchants trade mead.
 - **Boats.** A **færing** (rowing) and a **karve** (rowing plus a square sail), bought only with barrow gems from
-  settlement fishers and woodworkers. The karve sails by itself in a favourable wind; a wind dial by the compass, a
-  masthead streamer and a sail that fills or luffs show the wind. Passengers walk the deck; boats can be damaged,
-  repaired with logs, carry cargo and show on the map.
+  settlement fishers and woodworkers and delivered as a packed boat: place it on any water (the ghost goes green
+  where it fits), press **Z** at your boat to fold it back, **Tab** to open its cargo. The karve sails by itself in a
+  favourable wind; a wind arrow under the compass (coloured by how well the sail catches the wind) and a masthead
+  streamer show it. At the helm W steps the gear up (neutral, 1, 2, 3) and S down to astern, on an arc with a sliding
+  marker. Passengers walk the deck; boats can be damaged, repaired with logs and show on the map.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
   pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
@@ -477,7 +510,10 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 |---|---|
 | ![The rune door of a barrow by day: glowing runes and a dark vortex between dry-stone walls](media/rune_door_day.jpg) | ![Inside a barrow: the matching rune door at the end of a torch-lit stair, the way out](media/exit_door_from_hall.jpg) |
 | ![The mead barrel panel: mead and berry mead with their ingredients](media/mead_barrel_panel.jpg) | ![A karve under its striped sail, seen from astern on open water](media/karve_from_astern.jpg) |
-| ![Sailing: the wind dial beside the compass and the streamer at the masthead](media/wind_hud.jpg) | ![The Boats tab of a settlement woodworker: the færing and the karve, priced in gems](media/settlement_boats.jpg) |
+| ![Sailing: the wind arrow and the gear arc under the compass, the karve under full sail in the rain](media/boat_gears.jpg) | ![The Boats tab of a settlement woodworker: the færing and the karve, priced in gems](media/settlement_boats.jpg) |
+| ![A packed færing held in the hotbar: its ghost sits green on the water](media/boat_ghost_green.jpg) | ![Aimed at a placed færing: Go aboard, Z Pack and Tab Open the cargo](media/boat_prompt_keys.jpg) |
+| ![The cargo panel of a færing: its chest slots beside the bag](media/boat_cargo_panel.jpg) | ![The forge: an anvil on a stump beside the hearth](media/forge_close.jpg) |
+| ![A sword stroke lands on a draugr, the round shield held on the left arm](media/sword_hits_draugr.jpg) | ![The shield raised against a draugr](media/shield_block.jpg) |
 
 ![Golden hour from above: a long lake with a winding river at its foot, a smaller lake beside it, snow-capped hills and the sea on the horizon](media/hero.jpg)
 
@@ -522,14 +558,15 @@ a VPN such as Tailscale or WireGuard. A dedicated server runs without a window. 
 Traffic is not encrypted yet: play with people you trust.
 
 ### Controls
-W A S D + mouse · Space jump (fly up) · Shift run · Ctrl crouch (fly down) · Tab inventory, Craft and Cook · 1–9, 0
-hotbar · E use · F light or put out a fire or torch · right click eat or drink · B build (R turns, E places, Z takes
+W A S D + mouse · Space jump (fly up) · Shift run · Ctrl crouch (fly down) · Tab inventory, Craft and Cook (at a boat, its cargo) · 1–9, 0
+hotbar · left click swing a weapon · E use · F light or put out a fire or torch · right click eat or drink or raise the shield · Z at your boat folds it · W/S at the helm change gear · B build (R turns, E places, Z takes
 down) · M map · N skills · C appearance · Enter chat · G gestures · Esc pause · F1 rebind every control.
 
 ### Roadmap
 Planned next: terraforming (digging and shaping the ground), deeper survival, farming, and more to build and fight.
 The world generator may change between versions: a world from an older generator tells you why it cannot load and
-offers a new one with the same seed.
+offers a new one with the same seed. Saves open even with extra or older content; only a truly newer format
+refuses, and it names what is missing.
 
 ### Credits
 Made with [Godot](https://godotengine.org) by **Richardo G. Cibea M.** All world meshes, shaders and branding are
