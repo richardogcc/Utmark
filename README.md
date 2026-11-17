@@ -163,7 +163,7 @@ contador de las halladas. Habla con un habitante: en la pestaña **Contratar** p
 pieles** para que recoja, tale o rompa rocas y abastezca el almacén; en **Trueque** cambias tus cosas por las suyas.
 Sus **gallineros** dan huevos y plumas. Una antorcha eterna arde junto a cada puerta, así que una aldea se distingue de
 noche. Un **mercader ambulante** recorre el camino entre dos aldeas; cuando las conoces, el mapa lo muestra a él y su
-ruta comercial. Los paneles del mercader, la conversación y el almacén se actualizan en vivo, con el **+N** de los cofres cercanos.
+ruta comercial, pero solo cuando has descubierto las dos aldeas. Los menús son visuales: iconos, intercambios en forma de dar → recibir, un color que indica lo que puedes pagar y detalles en las descripciones emergentes. Los paneles del mercader, la conversación y el almacén se actualizan en vivo, con el **+N** de los cofres cercanos.
 
 | | |
 |---|---|
@@ -192,17 +192,28 @@ Los descubrimientos y otras noticias llegan como pequeños **avisos rúnicos** t
 
 ### Túmulos y draugar
 En lo más denso del bosque se alzan túmulos funerarios: unos diez por cada 5 km de mundo, que aparecen en el mapa al
-encontrarlos. Tumbas vikingas, piedras rúnicas y un barco de piedra rodean cada túmulo, y en su boca está el
-**haugbúi**, un rey-túmulo no muerto atado a su colina, con niebla fría a los pies.
+encontrarlos. Los túmulos, altos y rodeados de piedras de lindero, tumbas vikingas, piedras rúnicas y un barco de piedra,
+tienen en su boca al **haugbúi**, un rey-túmulo no muerto atado a su colina. El aire aquí es extraño: el cielo se
+cubre, la niebla se arrastra por el suelo y la luz se apaga, pero no llueve.
 
 ![Un túmulo visto a 30 m entre los árboles, con tumbas y una piedra rúnica alrededor](media/mound_approach_30m.jpg)
 
-Baja y el túmulo es una cueva propia, distinta bajo cada colina: túneles con antorchas, vetas de cristal y un cofre en
-la cámara más profunda, guardado por **draugar**. Estos cadáveres nórdicos reanimados patrullan, te descubren, rugen,
-te persiguen y golpean; algunos se enfurecen, crecen y pegan más fuerte, y sus golpes pueden dejar una podredumbre que
-te drena la salud poco a poco. El tesoro son ocho gemas y joyas nuevas que los mercaderes compran. El túmulo recuerda
-lo que tomaste y a quién mataste, y se repone pasados unos días del juego. Bajo tierra no hay lluvia, cielo ni sonidos
-de la superficie; el mapa dice «Subterráneo» y los jugadores cooperativos de la misma cueva se ven entre sí.
+La entrada es una **puerta de runas** desgastada: muros de piedra seca llevan hasta runas del futhark antiguo que
+brillan y un vórtice oscuro. Entra y desciendes. Dentro, el túmulo es una cueva propia, distinta bajo cada colina:
+pasadizos de piedra seca con ofrendas, vetas de cristal, túneles iluminados por las antorchas de pared del mundo y un
+cofre en la cámara más profunda, guardado por **draugar**. Otra puerta de runas igual, dentro, te saca de nuevo al
+cruzarla.
+
+| | |
+|---|---|
+| ![La puerta de runas de un túmulo de día: runas brillantes y un vórtice oscuro entre muros de piedra seca](media/rune_door_day.jpg) | ![Dentro de un túmulo: la puerta de runas gemela al final de una escalera con antorchas, la salida](media/exit_door_from_hall.jpg) |
+
+Estos cadáveres nórdicos reanimados patrullan, te descubren, rugen, te persiguen y golpean; algunos se enfurecen, crecen
+y pegan más fuerte, y sus golpes pueden dejar una podredumbre que te drena la salud poco a poco. Además **se regeneran
+muy despacio**, así que un combate paciente o un arco rinden tanto como la carga. El tesoro son ocho gemas y joyas
+nuevas que los mercaderes compran (y que pagan los barcos, más abajo). El túmulo recuerda lo que tomaste y a quién
+mataste, y se repone pasados unos días del juego. Bajo tierra no hay lluvia, cielo ni sonidos de la superficie; el mapa
+dice «Subterráneo» y los jugadores cooperativos de la misma cueva se ven entre sí.
 
 ![El haugbúi en la boca de su túmulo al anochecer, con niebla fría a los pies](media/haugbui_mound_mouth_mist.jpg)
 
@@ -215,6 +226,26 @@ acostado se despierta y una línea de estado bajo las barras te lo recuerda. Al 
 Los administradores pueden forzar una luna roja desde la web de administración.
 
 Los no muertos usan modelos con licencia (Quaternius CC0), acreditados en el juego, en Créditos.
+
+### Hidromiel
+Construye un **barril de hidromiel** junto a tu casa, échale miel y agua (y bayas, si quieres una hidromiel de bayas) y
+déjalo un día del juego. Luego, sírvete. Beber hidromiel te reconforta: restaura aguante y acelera la curación. Con tres
+o más te achispas. Los mercaderes comercian con hidromiel, así que un barril lleno también es moneda.
+
+![El panel del barril de hidromiel: hidromiel y hidromiel de bayas, con la miel, el agua y las bayas que necesita cada una](media/mead_barrel_panel.jpg)
+
+### Barcos
+Dos barcos, y solo se compran con **gemas de túmulo**. Los pescadores y carpinteros de las aldeas los venden en la
+pestaña **Barcos**: el **færing**, una barca pequeña de remos, y el **karve**, que rema y además lleva una vela
+cuadra. Con viento favorable el karve navega solo. El viento se ve en tres sitios: un **dial de viento** junto a la
+brújula, una **cinta** en lo alto del mástil y la propia vela, que se hincha o flamea. Los pasajeros caminan por la
+cubierta mientras navegas. Los barcos se dañan y se reparan con troncos, llevan carga y aparecen en el mapa.
+
+| | |
+|---|---|
+| ![Un karve con su vela a rayas, visto desde popa en mar abierto](media/karve_from_astern.jpg) | ![Navegando: el dial de viento junto a la brújula y la cinta en lo alto del mástil](media/wind_hud.jpg) |
+
+![La pestaña Barcos de un carpintero de aldea: el færing y el karve, con su precio en gemas](media/settlement_boats_es.jpg)
 
 ### Thor y Mjölnir
 A veces el cielo responde. Se acumula el trueno, una figura se forma en las nubes y Thor dicta sentencia: puede
@@ -286,7 +317,7 @@ Quien hace de autoridad (un servidor dedicado, un anfitrión o un solo jugador) 
 administración web**: un mapa en vivo del mundo, los jugadores conectados, acciones de administración (expulsar,
 teletransportar, tiempo, hora y **velocidad del tiempo**) y un registro de auditoría. Los **webhooks de Discord** publican eventos del servidor
 (entradas, guardados, muertes, logros, descubrimientos) como mensajes con imágenes del mapa. Ambos están apagados hasta
-que los activas.
+que los activas. Desde el panel funcionan el inicio y fin de la luna roja y los controles de hora, y arranca mientras el mundo aún carga.
 
 El mapa tiene además una capa de **Densidad de recursos**: por zona muestra cuánto de cada recurso hay y cuánto queda tras recolectar.
 
@@ -357,7 +388,7 @@ por qué no se puede cargar y ofrece uno nuevo con la misma semilla.
 Hecho con [Godot](https://godotengine.org) por **Richardo G. Cibea M.** Las mallas del mundo, los shaders y la marca
 son originales, generados por código. El personaje parte de los *Universal Base Characters* y la *Universal Animation
 Library* de Quaternius (CC0); los no muertos, de Quaternius (CC0); los efectos de sonido y ambientes son CC0. La música es original de Utmark (*Utmark —
-Original Soundtrack*, © Richardo G. Cibea M., todos los derechos reservados), interpretada con muestras CC0.
+Original Soundtrack*, © Richardo G. Cibea M., todos los derechos reservados), interpretada con muestras CC0. Los barcos son obra original; el barril de hidromiel es *Wine Barrel 01* de Poly Haven (CC0).
 Este repositorio solo contiene las versiones publicadas del juego; el código fuente no es público.
 
 ---
@@ -405,18 +436,27 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   Health bars on wounded animals, names and health over other players, and a hint of where a blow came from.
 - **Settlements.** Up to three Viking hamlets per world with inhabitants on a daily routine: hire workers (paid in
   fish or hides), barter, collect eggs and feathers from their hen pens. An eternal torch burns by every door. A travelling
-  merchant and his trade route show on the map. Merchant, talk and store panels update live, with the +N from chests.
+  merchant and his trade route show on the map once you have found both of his settlements. Menus are visual: icon tiles, trades as give → get, colour for what you can afford, tooltips for details. Panels update live, with the +N from chests.
 - **Standing stones and runes.** Runestones, picture stones, stone ships and circles. Their blessing restores your
   rune casts and hides you from animals; the Hunter's cast finds game and the Traveller's cast points to the nearest
   undiscovered settlement. News arrives as carved rune notices.
-- **Barrows and draugar.** Burial mounds in the densest forests (about ten per 5 km, on the map once found),
-  ringed by Viking graves, rune stones and a stone ship, with a haugbúi, an undead barrow-king, at the mouth. Inside is
-  a cave world unique to each barrow: torch-lit tunnels, crystal veins and a chest of eight new gems and jewels
-  (merchants buy them) in the deepest chamber, guarded by draugar that roar, chase, strike, sometimes enrage and can
-  leave a rotting drain. Barrows remember what you took and restock after a few in-game days; underground there is no
-  rain, sky or surface sound, and co-op players in a cave see each other. Hunt more than fourteen animals in a day and
-  there is a 1-in-100 chance at dusk of a **red moon**: until dawn nobody in the world can sleep or sprint (beds refuse
-  you, anyone lying down is woken, a status line shows it), and at dawn it lifts.
+- **Barrows and draugar.** Tall burial mounds in the densest forests (about ten per 5 km, on the map once found),
+  ringed by kerb stones, Viking graves, rune stones and a stone ship, with a haugbúi, an undead barrow-king, at the
+  mouth. The air turns eerie (overcast, ground mist, muted light, no rain). The way in is a weathered **rune door** with
+  glowing Elder Futhark runes and a dark vortex: walk in to descend, and a matching door inside takes you out. Inside is
+  a cave world unique to each barrow: dry-stone passages with offerings, crystal veins, wall-torch light and a chest of
+  eight new gems and jewels (merchants buy them) in the deepest chamber, guarded by draugar that roar, chase, strike,
+  sometimes enrage, can leave a rotting drain and regenerate only very slowly. Barrows remember what you took and
+  restock after a few in-game days; underground there is no rain, sky or surface sound, and co-op players in a cave see
+  each other. Hunt more than fourteen animals in a day and there is a 1-in-100 chance at dusk of a **red moon**: until
+  dawn nobody in the world can sleep or sprint (beds refuse you, anyone lying down is woken, a status line shows it),
+  and at dawn it lifts.
+- **Mead.** Build a mead barrel, brew honey plus water (berry mead optionally) for an in-game day and tap it. Drinking
+  warms you: stamina and faster healing; three or more and you get tipsy. Merchants trade mead.
+- **Boats.** A **færing** (rowing) and a **karve** (rowing plus a square sail), bought only with barrow gems from
+  settlement fishers and woodworkers. The karve sails by itself in a favourable wind; a wind dial by the compass, a
+  masthead streamer and a sail that fills or luffs show the wind. Passengers walk the deck; boats can be damaged,
+  repaired with logs, carry cargo and show on the map.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
   pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
@@ -424,7 +464,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **English and Spanish.** Pick the language in Settings; by default the game follows your system. The Settings rows
   share one rebuilt layout.
 - **Together.** Co-op up to 4 over LAN, WAN or a dedicated server; **LAN sync** keeps one single-player world up to
-  date on your two computers at home; a web admin dashboard with a live map, a resource density layer and a time-speed control; Discord
+  date on your two computers at home; a web admin dashboard with a live map, a resource density layer and time controls (including the red moon start and end); Discord
   webhooks; and data-only mods (ecosystems, plants, recipes, player states, zones, scheduled events, achievements).
 
 ![A barrow mound seen from 30 m through the forest](media/mound_approach_30m.jpg)
@@ -432,6 +472,12 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 ![The haugbúi at the mouth of his mound at dusk, with cold mist at his feet](media/haugbui_mound_mouth_mist.jpg)
 
 ![The hoard in the deepest chamber of a barrow](media/cave_hoard.jpg)
+
+| | |
+|---|---|
+| ![The rune door of a barrow by day: glowing runes and a dark vortex between dry-stone walls](media/rune_door_day.jpg) | ![Inside a barrow: the matching rune door at the end of a torch-lit stair, the way out](media/exit_door_from_hall.jpg) |
+| ![The mead barrel panel: mead and berry mead with their ingredients](media/mead_barrel_panel.jpg) | ![A karve under its striped sail, seen from astern on open water](media/karve_from_astern.jpg) |
+| ![Sailing: the wind dial beside the compass and the streamer at the masthead](media/wind_hud.jpg) | ![The Boats tab of a settlement woodworker: the færing and the karve, priced in gems](media/settlement_boats.jpg) |
 
 ![Golden hour from above: a long lake with a winding river at its foot, a smaller lake beside it, snow-capped hills and the sea on the horizon](media/hero.jpg)
 
@@ -488,6 +534,6 @@ offers a new one with the same seed.
 ### Credits
 Made with [Godot](https://godotengine.org) by **Richardo G. Cibea M.** All world meshes, shaders and branding are
 original, generated by code. The character is based on Quaternius' *Universal Base Characters* and *Universal
-Animation Library* (CC0); the undead are based on Quaternius assets (CC0); sound effects and ambiences are CC0. The music is original (*Utmark — Original Soundtrack*,
+Animation Library* (CC0); the undead are based on Quaternius assets (CC0); sound effects and ambiences are CC0. The boats are original work; the mead barrel is Poly Haven's *Wine Barrel 01* (CC0). The music is original (*Utmark — Original Soundtrack*,
 © Richardo G. Cibea M., all rights reserved), played with CC0 samples. This repository only holds the published builds; the
 source code is not public.
