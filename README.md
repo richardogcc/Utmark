@@ -254,7 +254,7 @@ Dos barcos, y solo se compran con **gemas de túmulo**. Los pescadores y carpint
 pestaña **Barcos**: el **færing**, una barca pequeña de remos, y el **karve**, que rema y además lleva una vela
 cuadra. La compra llega como un **barco plegado** en la mochila: tenlo en la mano, apunta a cualquier agua (el
 fantasma se ve verde donde cabe y rojo donde no) y colócalo. Apunta a tu barco y pulsa **Z** para plegarlo de nuevo;
-**Tab** abre su carga, como en una hoguera. Con viento favorable el karve navega solo. El viento se ve en tres
+**Tab** abre su carga, como en una hoguera. Con viento favorable el karve navega solo, y con la vela izada el viento sigue empujando incluso en punto muerto; un barco sin nadie a bordo no navega. El viento se ve en tres
 sitios: una pequeña **flecha bajo la brújula** mientras vas a bordo, de color según lo bien que la vela coge el
 viento; una **cinta** en lo alto del mástil y la propia vela, que se hincha o flamea. Al timón, **W** sube la marcha
 (punto muerto, 1, 2, 3) y **S** la baja hasta marcha atrás, en un arco curvo con un marcador que se desliza. Los
@@ -298,7 +298,7 @@ semilla o ajusta el mundo (tamaño, tierra, montañas, vegetación) y regéneral
 Utmark va sobre un Godot 4.7.2 ligeramente parcheado que guarda en caché las sombras lejanas del sol, con texturas
 comprimidas, carga del mundo sin nodos y con presupuesto por imagen, oclusión del terreno y de las paredes, y aldeas
 lejanas fusionadas: menos tirones y hasta una quinta parte menos de tiempo por imagen con sombras largas, con el mismo
-aspecto. En Ajustes hay límite de FPS (más bajo en menús y en segundo plano) y escalado MetalFX de Apple.
+aspecto. En Ajustes hay límite de FPS (más bajo en menús y en segundo plano) y escalado MetalFX de Apple. La versión trae los shaders ya horneados: el primer arranque con la caché vacía pasó de unos 114 s a unos 18 s (medido en un M4), y la descarga de macOS creció de unos 420 MB a unos 568 MB.
 
 ### Música y sonido
 Trece piezas originales, entre ellas siete largas y ambientales (de tres minutos y medio a cuatro) para explorar, la
@@ -382,7 +382,7 @@ partículas, recetas, **estados de jugador**, **zonas** (áreas protegidas o de 
 ### Requisitos (orientativos)
 | | |
 |---|---|
-| macOS | macOS 13 o posterior, Apple Silicon. Intel: incluido, sin probar |
+| macOS | macOS 14 o posterior, Apple Silicon. Intel: incluido, sin probar |
 | Windows | Windows 10/11 de 64 bits, gráfica compatible con Vulkan |
 | Memoria / disco | 8 GB de RAM (16 GB recomendados) · ~1 GB libre |
 
@@ -411,10 +411,12 @@ Historial de cambios: [Releases](../../releases).
 | Esc · F1 | Pausa · Ajustes > Controles (todo se puede reasignar) |
 
 ## Hoja de ruta
-Próximamente: **terraformación** (cavar y modelar el terreno), supervivencia más profunda, agricultura y más cosas que
-construir y combatir. El generador del mundo puede cambiar entre versiones: un mundo de un generador anterior te dice
-por qué no se puede cargar y ofrece uno nuevo con la misma semilla. Las partidas se abren aunque tengan contenido de más o de versiones
-anteriores; solo un formato realmente más nuevo se rechaza, y dice qué falta.
+Próximamente: supervivencia más profunda, agricultura y más cosas que construir y combatir. El generador del mundo
+puede cambiar entre versiones: un mundo de un generador anterior se actualiza al cargarlo. Se conservan tu personaje, tus
+pertenencias y tu terraformación, y una costa volcánica mantiene su suelo antiguo bajo lo que hayas construido. Lo
+construido que ya no encaje en el terreno nuevo se desmonta y te devuelve los materiales; los árboles talados y las rocas
+minadas vuelven. Las partidas se abren aunque tengan contenido de más o de versiones anteriores; solo un formato
+realmente más nuevo se rechaza, y dice qué falta. Un mundo actualizado al generador v28 no se abre con una versión anterior: actualiza todos los equipos a la vez.
 
 ## Créditos
 Hecho con [Godot](https://godotengine.org) por **Richardo G. Cibea M.** Las mallas del mundo, los shaders y la marca
@@ -495,7 +497,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   where it fits), press **Z** at your boat to fold it back, **Tab** to open its cargo. The karve sails by itself in a
   favourable wind; a wind arrow under the compass (coloured by how well the sail catches the wind) and a masthead
   streamer show it. At the helm W steps the gear up (neutral, 1, 2, 3) and S down to astern, on an arc with a sliding
-  marker. Passengers walk the deck; boats can be damaged, repaired with logs and show on the map.
+  marker. With the sail raised the wind keeps pushing in neutral; an unmanned boat does not sail. Passengers walk the deck; boats can be damaged, repaired with logs and show on the map.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
   pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
@@ -540,7 +542,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 ![Walking up to a runestone in the evening: its carving lights up and the stealth blessing appears in the corner](media/monolith_glow.gif)
 
 <a id="install"></a>
-- **Smooth on your Mac**: a lightly patched Godot 4.7.2 with cached far sun shadows, streamed world chunks and occlusion; FPS limit and MetalFX upscaling in Settings.
+- **Smooth on your Mac**: a lightly patched Godot 4.7.2 with cached far sun shadows, streamed world chunks and occlusion; FPS limit and MetalFX upscaling in Settings. Shaders ship baked: a first launch on an empty cache went from about 114 s to about 18 s (measured on one M4); the macOS download grew from about 420 MB to about 568 MB.
 
 ### Install
 - **macOS:** download `Utmark-X.Y.Z-macos.zip` from the [latest release](../../releases/latest), unzip it and **move
@@ -550,7 +552,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   `Utmark.exe`; SmartScreen: **More info > Run anyway**. Tested mostly on macOS (Apple Silicon); the Windows build is
   new and less tested.
 
-**Requirements (indicative):** macOS 13+ on Apple Silicon (Intel included, untested) · Windows 10/11 64-bit with a
+**Requirements (indicative):** macOS 14+ on Apple Silicon (Intel included, untested) · Windows 10/11 64-bit with a
 Vulkan-capable GPU · 8 GB RAM (16 GB recommended) · about 1 GB of disk.
 
 ### Updates
@@ -571,10 +573,12 @@ hotbar · left click swing a weapon · E use · F light or put out a fire or tor
 down) · M map · N skills · C appearance · Enter chat · G gestures · Esc pause · F1 rebind every control.
 
 ### Roadmap
-Planned next: terraforming (digging and shaping the ground), deeper survival, farming, and more to build and fight.
-The world generator may change between versions: a world from an older generator tells you why it cannot load and
-offers a new one with the same seed. Saves open even with extra or older content; only a truly newer format
-refuses, and it names what is missing.
+Planned next: deeper survival, farming, and more to build and fight.
+The world generator may change between versions: a world from an older generator is updated when you load it. Your
+character, belongings and terraforming stay, and a volcanic coast keeps its old ground under what you built there. A
+building that no longer fits the new terrain is taken down and its materials returned; felled trees and mined rocks
+come back. Saves open even with extra or older content; only a truly newer format refuses, and it names what is
+missing. A world updated to generator v28 cannot be opened by an older build, so update every machine together.
 
 ### Credits
 Made with [Godot](https://godotengine.org) by **Richardo G. Cibea M.** All world meshes, shaders and branding are
