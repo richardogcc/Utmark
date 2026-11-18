@@ -294,6 +294,12 @@ Empieza un mundo desde cero o arrastra las habilidades y el inventario de una pa
 semilla o ajusta el mundo (tamaño, tierra, montañas, vegetación) y regéneralo en segundos. Edita tu aspecto al empezar
 (Nueva partida > Apariencia, o C en el juego).
 
+### Fluido en tu Mac
+Utmark va sobre un Godot 4.7.2 ligeramente parcheado que guarda en caché las sombras lejanas del sol, con texturas
+comprimidas, carga del mundo sin nodos y con presupuesto por imagen, oclusión del terreno y de las paredes, y aldeas
+lejanas fusionadas: menos tirones y hasta una quinta parte menos de tiempo por imagen con sombras largas, con el mismo
+aspecto. En Ajustes hay límite de FPS (más bajo en menús y en segundo plano) y escalado MetalFX de Apple.
+
 ### Música y sonido
 Trece piezas originales, entre ellas siete largas y ambientales (de tres minutos y medio a cuatro) para explorar, la
 noche, la costa, la montaña y el hogar, con largos silencios entre ellas. La música no se para sola: solo cuando tú la
@@ -534,6 +540,8 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 ![Walking up to a runestone in the evening: its carving lights up and the stealth blessing appears in the corner](media/monolith_glow.gif)
 
 <a id="install"></a>
+- **Smooth on your Mac**: a lightly patched Godot 4.7.2 with cached far sun shadows, streamed world chunks and occlusion; FPS limit and MetalFX upscaling in Settings.
+
 ### Install
 - **macOS:** download `Utmark-X.Y.Z-macos.zip` from the [latest release](../../releases/latest), unzip it and **move
   `Utmark.app` to Applications** (needed for self-updates). Not notarized: the first time, right-click > **Open**
