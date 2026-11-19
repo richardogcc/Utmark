@@ -9,7 +9,7 @@
   · <a href="#english">English below</a>
 </p>
 
-![Hora dorada desde lo alto: un lago largo con un río serpenteante a sus pies, otro lago más pequeño al lado, colinas nevadas y el mar en el horizonte](media/hero.jpg)
+![Hora dorada desde lo alto: un lago en un valle verde, un río que se aleja serpenteando, bosque en las laderas y cumbres con manchas de nieve al fondo](media/hero.jpg)
 
 **Utmark** es un juego de supervivencia, exploración y construcción en una tierra salvaje del norte que aprendes a
 leer. El nombre es la palabra escandinava para la tierra de fuera de la cerca de la granja: la que no se cultiva sino
@@ -33,11 +33,11 @@ moldea: páramos secos a sotavento de las crestas, nieve en las laderas protegid
 dibuja como un mapa de campo, con curvas de nivel, escala y rosa de los vientos; acércalo a unos cientos de metros,
 pon marcadores y viaja con un clic.
 
-![Una montaña modelada por el drenaje: costillas de roca, brezo y nieve tardía sobre un bosque y un río](media/mountains_v29.jpg)
+![Una montaña modelada por el drenaje: costillas de roca y barrancos, brezo y nieve tardía sobre árboles sueltos](media/mountains_v29.jpg)
 
 | | |
 |---|---|
-| ![Luz de tarde sobre las crestas nevadas de los Altos de Escarcha, sobre bosque abierto](media/snow_heights.jpg) | ![El mapa del juego a unos tres kilómetros del inicio: curvas de nivel, lagos, ríos, la rosa de los vientos y la escala a 500 m](media/map.jpg) |
+| ![Luz de tarde sobre las crestas nevadas de los Altos de Escarcha, sobre un pinar](media/snow_heights.jpg) | ![El mapa del juego a unos tres kilómetros del inicio: curvas de nivel, lagos, ríos, la rosa de los vientos y la escala a 500 m](media/map.jpg) |
 
 El mapa conoce todo el mundo desde el primer minuto: cada piedra en pie y cada aldea están en él desde el inicio de la partida, así que puedes planear un viaje antes de dar un paso.
 
@@ -51,9 +51,9 @@ plantas, su luz, su tiempo y su vida en el aire.
 
 | | |
 |---|---|
-| ![Valles del Alba: una pradera con margaritas, campanillas y trébol en manchas, y las alturas al fondo](media/eco_dawn_vales.jpg)<br>**Valles del Alba**: praderas abrigadas con manchas de flores silvestres y bosque mixto. | ![Sotos de Ámbar: abedules de tronco claro y frondosas a contraluz con el sol de la tarde](media/eco_amber_groves.jpg)<br>**Sotos de Ámbar**: bosques de copa dorada en la cara húmeda de las crestas. |
+| ![Valles del Alba: una pradera abierta de hierbas bajo las alturas](media/eco_dawn_vales.jpg)<br>**Valles del Alba**: praderas abrigadas con manchas de flores silvestres y bosque mixto. | ![Sotos de Ámbar: abedules de tronco claro y frondosas en un bosque soleado](media/eco_amber_groves.jpg)<br>**Sotos de Ámbar**: bosques de copa dorada en la cara húmeda de las crestas. |
 | ![Cuencas de Junco: espadañas y juncos bajo frondosas en una hondonada húmeda](media/eco_reed_basins.jpg)<br>**Cuencas de Junco**: hondonadas húmedas, mosquitos y luciérnagas de noche. | ![Páramos de Sílex: suelo claro y pedregoso, brezo y árboles sueltos bajo las crestas](media/eco_flint_moors.jpg)<br>**Páramos de Sílex**: brezal abierto a sotavento. |
-| ![Altos de Escarcha: una ladera escarchada con pinos bajo una cresta nevada](media/eco_rime_heights.jpg)<br>**Altos de Escarcha**: crestas frías y nieve a la deriva. | ![Costas de Sal: una playa de arena que se curva junto a un mar en calma](media/eco_salt_coasts.jpg)<br>**Costas de Sal**: dunas, calas y acantilados. |
+| ![Altos de Escarcha: matas escarchadas y pinos bajo una cresta rocosa y pelada](media/eco_rime_heights.jpg)<br>**Altos de Escarcha**: crestas frías y nieve a la deriva. | ![Costas de Sal: una playa de arena que se curva junto a un mar en calma](media/eco_salt_coasts.jpg)<br>**Costas de Sal**: dunas, calas y acantilados. |
 | ![Calderas de Ascua: suelo de ceniza y árboles muertos bajo un cielo brumoso](media/eco_ember_calderas.jpg)<br>**Calderas de Ascua**: raros puntos volcánicos de ceniza y fumarolas. | ![Un lago con el arroyo que entra por un lado y el que sale por el otro, ambos a su mismo nivel](media/lake_outlet.jpg)<br>**Ríos y lagos**: el agua nunca queda lejos. |
 
 Las Calderas de Ascua, raros puntos volcánicos de ceniza y fumarolas, completan los siete.
@@ -102,9 +102,9 @@ muestra lo que ponen los cofres.
 
 | | |
 |---|---|
-| ![Un cofre de madera en un rincón de la casa, a la luz de las antorchas de pared](media/chest_house.jpg) | ![El panel del cofre: sus huecos junto a la mochila, con Cogerlo todo y Guardar iguales](media/chest_panel.jpg) |
+| ![Un cofre de madera en un rincón de una casa de troncos, a la luz de sus antorchas de pared](media/chest_house.jpg) | ![El panel del cofre: sus huecos junto a la mochila, con Cogerlo todo y Guardar iguales](media/chest_panel.jpg) |
 
-![La pestaña Cocinar junto a una hoguera: cada plato cuenta lo de la mochila y un pequeño +1 del cofre de al lado](media/cook_from_chest.jpg)
+![La pestaña Cocinar junto a una hoguera: cada plato cuenta lo de la mochila y un pequeño +N del arcón de al lado](media/cook_from_chest.jpg)
 
 | | |
 |---|---|
@@ -127,12 +127,12 @@ Construir junto a una base grande pesa menos.
 
 Un árbol talado cae como un único tronco liso con su propia corteza, tumbado en el suelo y tan ancho como su tocón.
 
-![Un tronco talado junto a su tocón, con la corteza del árbol del que salió](media/felled_log.jpg)
+![Un roble talado: el tronco liso tendido junto a su tocón, igual de ancho](media/felled_log.jpg)
 
 | | |
 |---|---|
-| ![Una casa de Hedeby en una pradera bajo las alturas nevadas](media/house_exterior.jpg) | ![Dentro de la casa: bancos, paja y el hogar abierto](media/house_interior.jpg) |
-| ![El menú de construcción en la pestaña Granja: huerto, colmena y lazo](media/build_farm.jpg) | ![Huertos con los cultivos brotando y una colmena detrás](media/farm.jpg) |
+| ![Una casa de Hedeby en una pradera, con la puerta abierta](media/house_exterior.jpg) | ![Dentro de la casa: bancos junto a las paredes, paja y el hogar abierto](media/house_interior.jpg) |
+| ![El menú de construcción en la pestaña Granja: huerto, colmena y lazo](media/build_farm.jpg) | ![Huertos junto a la casa, sembrados en momentos distintos](media/farm.jpg) |
 
 ### Terraformación
 Fabrica una **pala** (1 tronco, 2 piedras, 2 juncos). Clic izquierdo cava y te da tierra, clic derecho levanta el
@@ -142,7 +142,7 @@ construcciones u objetos.
 
 | | |
 |---|---|
-| ![Un foso, un montículo y un anillo de maleza hechos con la pala](media/terraform_pit_mound.jpg) | ![Cavando un foso con la pala](media/terraform_dig.gif) |
+| ![Un foso y un montículo hechos con la pala, y el anillo de maleza donde caerá el siguiente golpe](media/terraform_pit_mound.jpg) | ![Cavando un foso con la pala](media/terraform_dig.gif) |
 
 ## Vida en la tierra
 
@@ -158,7 +158,7 @@ en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman 
 
 | | |
 |---|---|
-| ![Ciervos rojos pastando al borde de un pinar](media/deer.jpg) | ![Un jabalí hozando en una pradera](media/boar.jpg) |
+| ![Un ciervo rojo pastando en un bosque abierto](media/deer.jpg) | ![Un jabalí hozando en una pradera](media/boar.jpg) |
 | ![Una liebre de montaña en la hierba](media/hare.jpg) | ![Cuervos planeando](media/ravens.jpg) |
 
 ![Apuntando con el arco a un ciervo rojo: tensión completa, el objetivo marcado y la tensión, la distancia y el objetivo sobre la barra](media/bow_aim.jpg)
@@ -180,11 +180,11 @@ ruta comercial, pero solo cuando has descubierto las dos aldeas. Los menús son 
 
 | | |
 |---|---|
-| ![Una aldea entre los árboles: casas, patio y gallinero](media/village.jpg) | ![Hablando con un habitante: la pestaña Contratar con el precio del trabajador, pagado en pescado](media/talk_hire.jpg) |
-| ![La misma conversación en la pestaña Trueque: huevos y plumas del gallinero](media/talk_barter.jpg) | ![Un gallinero con su cobertizo y sus gallinas](media/hen_pen.jpg) |
+| ![Una aldea entre los árboles: dos casas y un patio](media/village.jpg) | ![Hablando con un habitante: la pestaña Contratar con el precio del trabajador, pagado en pescado](media/talk_hire.jpg) |
+| ![La misma conversación en la pestaña Trueque: huevos y plumas del gallinero](media/talk_barter.jpg) | ![Un gallinero con su cerca de mimbre y su cobertizo](media/hen_pen.jpg) |
 | ![El panel de comercio de un mercader ambulante](media/merchant.jpg) | ![Una casa al anochecer, con la antorcha eterna junto a la puerta](media/torches_dusk.jpg) |
 
-![El mapa con el mercader ambulante cerca de Birkiholt y su ruta comercial discontinua hasta Sandvik](media/merchant_map.jpg)
+![El mapa con el mercader ambulante en su ruta comercial discontinua entre Kolbeinsstadir y Reyrvik](media/merchant_map.jpg)
 
 ### Piedras en pie y runas
 Piedras rúnicas, piedras pintadas, bautasteinar, barcos de piedra y círculos de piedras se alzan en cimas y costas.
@@ -197,7 +197,7 @@ viajero** señala la aldea más cercana que aún no has encontrado.
 
 | | |
 |---|---|
-| ![El menú de tirada de runas: la tirada del cazador y la del viajero](media/rune_menu.jpg) | ![Un barco de piedra junto a la orilla al anochecer, con sus piedras iluminadas](media/stone_ship.jpg) |
+| ![El menú de tirada de runas: la tirada del cazador y la del viajero](media/rune_menu.jpg) | ![Un barco de piedra cerca de la orilla con la luz de la tarde](media/stone_ship.jpg) |
 
 Los descubrimientos y otras noticias llegan como pequeños **avisos rúnicos** tallados en la esquina de la pantalla.
 
@@ -216,7 +216,7 @@ medidor) y se arreglan en la fragua. **Cuerpo a cuerpo** y **Bloqueo** son habil
 |---|---|
 | ![Un tajo de espada alcanza a un draugr, con el escudo redondo en el brazo izquierdo](media/sword_hits_draugr.jpg) | ![El escudo en alto frente a un draugr](media/shield_block.jpg) |
 
-![La fragua: un yunque sobre un tocón junto al hogar](media/forge_close.jpg)
+![La fragua: un yunque sobre un tocón junto a su hogar bajo](media/forge_close.jpg)
 
 ### Túmulos y draugar
 En lo más denso del bosque se alzan túmulos funerarios: unos diez por cada 5 km de mundo, que aparecen en el mapa al
@@ -224,7 +224,7 @@ encontrarlos. Los túmulos, altos y rodeados de piedras de lindero, tumbas vikin
 tienen en su boca al **haugbúi**, un rey-túmulo no muerto atado a su colina. El aire aquí es extraño: el cielo se
 cubre, la niebla se arrastra por el suelo y la luz se apaga, pero no llueve.
 
-![Un túmulo visto a 30 m entre los árboles, con tumbas y una piedra rúnica alrededor](media/mound_approach_30m.jpg)
+![Un túmulo visto a 30 m entre los árboles, con la puerta de runas en el costado](media/mound_approach_30m.jpg)
 
 La entrada es una **puerta de runas** desgastada: muros de piedra seca llevan hasta runas del futhark antiguo que
 brillan y un vórtice oscuro. Entra y desciendes. Dentro, el túmulo es una cueva propia, distinta bajo cada colina:
@@ -234,7 +234,7 @@ cruzarla.
 
 | | |
 |---|---|
-| ![La puerta de runas de un túmulo de día: runas brillantes y un vórtice oscuro entre muros de piedra seca](media/rune_door_day.jpg) | ![Dentro de un túmulo: la puerta de runas gemela al final de una escalera con antorchas, la salida](media/exit_door_from_hall.jpg) |
+| ![La puerta de runas de un túmulo de día al fondo de su pasillo de piedra seca, con el haugbúi de guardia delante](media/rune_door_day.jpg) | ![Dentro de un túmulo: la puerta de runas gemela al final de una escalera con antorchas, la salida](media/exit_door_from_hall.jpg) |
 
 Estos cadáveres nórdicos reanimados patrullan, te descubren, rugen, te persiguen y golpean; algunos se enfurecen, crecen
 y pegan más fuerte, y sus golpes pueden dejar una podredumbre que te drena la salud poco a poco. Además **se regeneran
@@ -245,7 +245,7 @@ dice «Subterráneo» y los jugadores cooperativos de la misma cueva se ven entr
 
 ![El haugbúi en la boca de su túmulo al anochecer, con niebla fría a los pies](media/haugbui_mound_mouth_mist.jpg)
 
-![El tesoro en la cámara más profunda de un túmulo](media/cave_hoard.jpg)
+![El cofre del tesoro en la cámara más profunda de un túmulo](media/cave_hoard.jpg)
 
 **La luna roja.** Si cazas más de catorce presas (liebres, jabalíes o ciervos) en un día, al anochecer hay una
 probabilidad entre cien de que la luna se vuelva roja como la sangre. La noche se tiñe con ella y, hasta el amanecer,
@@ -275,12 +275,12 @@ pasajeros caminan por la cubierta mientras navegas. Los barcos se dañan y se re
 
 | | |
 |---|---|
-| ![Un karve con su vela a rayas, visto desde popa en mar abierto](media/karve_from_astern.jpg) | ![Navegando: la flecha de viento y el arco de marchas bajo la brújula, el karve a toda vela bajo la lluvia](media/boat_gears.jpg) |
+| ![Un karve con su vela a rayas, visto desde popa en mar abierto](media/karve_from_astern.jpg) | ![Navegando bajo la lluvia: la flecha de viento y el arco de marchas bajo la brújula, el karve a toda vela](media/boat_gears.jpg) |
 | ![Un færing plegado en la barra rápida: su fantasma se ve verde sobre el agua](media/boat_ghost_green.jpg) | ![Apuntando a un færing colocado: Subir a bordo, Z Plegar y Tab Abrir la carga](media/boat_prompt_keys.jpg) |
 
 ![El panel de carga de un færing: sus huecos junto a la mochila](media/boat_cargo_panel.jpg)
 
-![La pestaña Barcos de un carpintero de aldea: el færing y el karve, con su precio en gemas](media/settlement_boats_es.jpg)
+![La pestaña Barcos de un pescador de aldea: el færing y el karve, con su precio en gemas de túmulo](media/settlement_boats_es.jpg)
 
 ### Thor y Mjölnir
 A veces el cielo responde. Se acumula el trueno, una figura se forma en las nubes y Thor dicta sentencia: puede
@@ -292,7 +292,7 @@ perdonarte y dejar en tus manos su martillo, Mjölnir, o fulminarte. Si caes, la
 Veinticuatro logros, desde el primer árbol hasta cada piedra en pie, en un menú que muestra el progreso, las fechas y
 algunas sorpresas ocultas.
 
-![El menú de logros: logros desbloqueados con sus fechas y barras de progreso](media/achievements.jpg)
+![El menú de logros: los desbloqueados con su fecha y los bloqueados con su progreso](media/achievements.jpg)
 
 ## Jugar
 
@@ -377,7 +377,7 @@ partículas, recetas, **estados de jugador**, **zonas** (áreas protegidas o de 
 
 | | |
 |---|---|
-| ![El menú principal sobre un bosque al amanecer; el reproductor de música de la esquina dice qué pieza suena](media/main_menu.jpg) | ![El cargador de arranque: el logo y el anillo de runas mientras empieza el juego](media/boot_loader.jpg) |
+| ![El menú principal sobre un bosque soleado; los controles de música en la esquina](media/main_menu.jpg) | ![El cargador de arranque: el logo y el anillo de runas mientras empieza el juego](media/boot_loader.jpg) |
 
 ## Instalar
 
@@ -465,7 +465,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   scale bar and a wind rose, zoomable to a few hundred metres, with markers and click-to-travel.
   Every standing stone and settlement is on the map from the start of the session.
 
-  ![A mountain shaped by drainage: rock ribs, heath and late snow above a forest and a river](media/mountains_v29.jpg)
+  ![A mountain shaped by drainage: rock ribs and gullies, heath and late snow above scattered trees](media/mountains_v29.jpg)
 
 - **Weather with a cause.** Nine kinds, from fog to gale, blizzard and ashfall, with storms, lightning, rising surf.
   Rain draws rings and small splashes on lakes, rivers and the sea, denser the heavier it falls, and none in snow.
@@ -488,7 +488,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   chimney. Pieces snap into place and every piece needs a chain of supports to the ground. Building near a large base
   is lighter. A felled tree falls as one plain log with its own bark, lying on the ground and as wide as its stump.
 
-  ![A felled log lying beside its stump, with the bark of the tree it came from](media/felled_log.jpg)
+  ![A felled oak: the plain log lying beside its stump, as wide as it](media/felled_log.jpg)
 
 - **Terraforming.** Craft a shovel (1 log, 2 stones, 2 reeds): left click digs and gives soil, right click raises
   ground and spends it, F flattens to your feet. Saved with the world and shared in co-op. Not in settlements, by
@@ -541,30 +541,30 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   date on your two computers at home; a web admin dashboard with a live map, a resource density layer and time controls (including the red moon start and end); Discord
   webhooks; and data-only mods (ecosystems, plants, recipes, player states, zones, scheduled events, achievements).
 
-![A barrow mound seen from 30 m through the forest](media/mound_approach_30m.jpg)
+![A barrow mound seen from 30 m through the forest, its rune door in the side](media/mound_approach_30m.jpg)
 
 ![The haugbúi at the mouth of his mound at dusk, with cold mist at his feet](media/haugbui_mound_mouth_mist.jpg)
 
-![The hoard in the deepest chamber of a barrow](media/cave_hoard.jpg)
+![The hoard chest in the deepest chamber of a barrow](media/cave_hoard.jpg)
 
 | | |
 |---|---|
-| ![The rune door of a barrow by day: glowing runes and a dark vortex between dry-stone walls](media/rune_door_day.jpg) | ![Inside a barrow: the matching rune door at the end of a torch-lit stair, the way out](media/exit_door_from_hall.jpg) |
+| ![The rune door of a barrow by day at the end of its dry-stone passage, the haugbúi standing guard before it](media/rune_door_day.jpg) | ![Inside a barrow: the matching rune door at the end of a torch-lit stair, the way out](media/exit_door_from_hall.jpg) |
 | ![The mead barrel panel: mead and berry mead with their ingredients](media/mead_barrel_panel.jpg) | ![A karve under its striped sail, seen from astern on open water](media/karve_from_astern.jpg) |
-| ![Sailing: the wind arrow and the gear arc under the compass, the karve under full sail in the rain](media/boat_gears.jpg) | ![The Boats tab of a settlement woodworker: the færing and the karve, priced in gems](media/settlement_boats.jpg) |
+| ![Sailing in the rain: the wind arrow and the gear arc under the compass, the karve under full sail](media/boat_gears.jpg) | ![The Boats tab of a settlement fisher: the færing and the karve, priced in barrow gems](media/settlement_boats.jpg) |
 | ![A packed færing held in the hotbar: its ghost sits green on the water](media/boat_ghost_green.jpg) | ![Aimed at a placed færing: Go aboard, Z Pack and Tab Open the cargo](media/boat_prompt_keys.jpg) |
-| ![The cargo panel of a færing: its chest slots beside the bag](media/boat_cargo_panel.jpg) | ![The forge: an anvil on a stump beside the hearth](media/forge_close.jpg) |
+| ![The cargo panel of a færing: its chest slots beside the bag](media/boat_cargo_panel.jpg) | ![The forge: an anvil on a stump beside its low hearth](media/forge_close.jpg) |
 | ![A sword stroke lands on a draugr, the round shield held on the left arm](media/sword_hits_draugr.jpg) | ![The shield raised against a draugr](media/shield_block.jpg) |
 
-![Golden hour from above: a long lake with a winding river at its foot, a smaller lake beside it, snow-capped hills and the sea on the horizon](media/hero.jpg)
+![Golden hour from above: a lake in a green valley, a river winding away from it, woods on the slopes and snow-patched peaks behind](media/hero.jpg)
 
 | | |
 |---|---|
 | ![Talking to a settlement inhabitant: the Hire tab with the worker's fee, paid in fish](media/talk_hire.jpg) | ![A house at dusk, the eternal torch burning beside its door](media/torches_dusk.jpg) |
 | ![The rune cast menu: the Hunter's cast and the Traveller's cast](media/rune_menu.jpg) | ![The build menu on its Farm tab: garden plot, beehive and snare](media/build_farm.jpg) |
-| ![The Cook tab at a campfire: each dish counts what the bag holds plus a small +1 from the chest beside the fire](media/cook_from_chest.jpg) | ![The map with the travelling merchant near Birkiholt and his dashed trade route to Sandvik](media/merchant_map.jpg) |
+| ![The Cook tab at a campfire: each dish counts what the bag holds plus a small +N from the sea chest beside the fire](media/cook_from_chest.jpg) | ![The map with the travelling merchant on his dashed trade route between Kolbeinsstadir and Reyrvik](media/merchant_map.jpg) |
 | ![Glowing deer tracks at dusk, leading off between the trees](media/tracks_dusk.jpg) | ![The world list with sync badges: Conflict, Newer here and Synced](media/lan_sync_worlds.jpg) |
-| ![A pit, a mound and a brush ring dug and raised with the shovel](media/terraform_pit_mound.jpg) | ![Digging a pit with the shovel](media/terraform_dig.gif) |
+| ![A pit and a mound dug and raised with the shovel, and the brush ring where the next stroke lands](media/terraform_pit_mound.jpg) | ![Digging a pit with the shovel](media/terraform_dig.gif) |
 
 ![Creeping up on deer: the stealth eye by the crosshair goes from calm to suspicious (yellow) to alert (red)](media/stealth_eye.jpg)
 
