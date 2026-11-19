@@ -62,9 +62,12 @@ Las Calderas de Ascua, raros puntos volcánicos de ceniza y fumarolas, completan
 Nueve tipos de tiempo, de despejado y niebla a vendaval, ventisca y lluvia de ceniza, que se sortean cada diez minutos
 y se funden con suavidad. Las cuencas son las más nubladas, los páramos reciben los vendavales y la ceniza solo cae
 sobre las calderas. Las tormentas oscurecen el cielo y lanzan rayos; el mar sube con el viento y la espuma trepa por
-la playa.
+la playa. La lluvia dibuja anillos y pequeñas salpicaduras en lagos, ríos y mar, más densos cuanto más fuerte cae, y
+ninguno con nieve.
 
 ![Una tormenta en las Costas de Sal a la altura de los ojos: lluvia, relámpagos y el mar oscuro](media/storm_shore.gif)
+
+![La orilla de un lago bajo lluvia fuerte a la altura de los ojos: anillos y pequeñas salpicaduras sobre el agua](media/rain_lake.jpg)
 
 ## Sobrevivir
 
@@ -74,7 +77,12 @@ Salud, hambre y sed bajan despacio: un día dura 40 minutos y una cantimplora y 
 pila. Duerme en una cama, comido y bebido. Si mueres, tus cosas te esperan en un **túmulo vikingo** marcado en el mapa
 y te levantas con unas pocas herramientas básicas.
 
-![Comiendo setas asadas desde la barra rápida: las barras de salud, aguante, comida y agua y el progreso de la comida sobre la barra](media/vitals.jpg)
+Cuatro barras verticales junto a la barra rápida muestran salud, aguante, comida y agua, y se llenan de abajo arriba.
+Mientras un valor sube, la barra muestra una parte clara que llega y una banda brillante que la recorre.
+
+![Partida en tercera persona: las barras verticales de salud, aguante, comida y agua junto a la barra rápida, algunas a medias](media/vitals_bars.jpg)
+
+![Detalle de las barras mientras suben salud y comida: una parte clara que llega y una banda brillante que la recorre](media/vitals_rise.jpg)
 
 ### Inventario, Fabricar y Cocinar
 Tab abre el inventario sin pausar el mundo: barra rápida en 1-9 y 0, mochila y pestañas de **Fabricar** y **Cocinar**
@@ -116,6 +124,10 @@ tablillas, **antorchas** de pie y de pared y un **hogar** de piedra con chimenea
 flota: cada pieza necesita una cadena de apoyos hasta el suelo. Enciende una **hoguera** desde un kit; un techo guarda
 de la lluvia. Las casas se ven vividas: muros combados, madera blanqueada, musgo, escudos, un telar y paja dentro.
 Construir junto a una base grande pesa menos.
+
+Un árbol talado cae como un único tronco liso con su propia corteza, tumbado en el suelo y tan ancho como su tocón.
+
+![Un tronco talado junto a su tocón, con la corteza del árbol del que salió](media/felled_log.jpg)
 
 | | |
 |---|---|
@@ -456,8 +468,16 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   ![A mountain shaped by drainage: rock ribs, heath and late snow above a forest and a river](media/mountains_v29.jpg)
 
 - **Weather with a cause.** Nine kinds, from fog to gale, blizzard and ashfall, with storms, lightning, rising surf.
+  Rain draws rings and small splashes on lakes, rivers and the sea, denser the heavier it falls, and none in snow.
+
+  ![A lake shore in heavy rain at eye level: rings and small splashes spreading over the water](media/rain_lake.jpg)
+
 - **Survive.** Health, hunger and thirst; 40-minute days; fill flasks at rivers, boil lake water, dig wells, catch
-  rain. If you die, your things wait in a Viking cairn marked on the map.
+  rain. If you die, your things wait in a Viking cairn marked on the map. Four upright bars beside the hotbar show
+  health, stamina, food and water, filling bottom to top, with a lighter incoming part and a bright band while a value rises.
+
+  ![Third-person gameplay: the upright health, stamina, food and water bars beside the hotbar, some partly empty](media/vitals_bars.jpg)
+
 - **Inventory, Craft and Cook.** Tab opens it without pausing the world. Cook becomes the cooking menu of the fire you
   stand at: spit, hanging pot, or a house hearth cooking three dishes at once.
 - **Chests.** A wooden chest (12 slots) or a sea chest (24) from the Furniture tab. Building, crafting, cooking, fuel, planting,
@@ -466,7 +486,10 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Get better by doing.** Eighteen skills from 1 to 30, with golden milestones at 10, 20 and 30.
 - **Build.** Stone foundations, log walls, doors, floors, beams, stairs, shingled roofs, torches and a hearth with a
   chimney. Pieces snap into place and every piece needs a chain of supports to the ground. Building near a large base
-  is lighter.
+  is lighter. A felled tree falls as one plain log with its own bark, lying on the ground and as wide as its stump.
+
+  ![A felled log lying beside its stump, with the bark of the tree it came from](media/felled_log.jpg)
+
 - **Terraforming.** Craft a shovel (1 log, 2 stones, 2 reeds): left click digs and gives soil, right click raises
   ground and spends it, F flattens to your feet. Saved with the world and shared in co-op. Not in settlements, by
   monoliths, in lakes, rivers and their banks, on the coast, or under builds and objects.
