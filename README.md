@@ -74,7 +74,8 @@ ninguno con nieve.
 ### Come, bebe y sigue vivo
 Salud, hambre y sed bajan despacio: un día dura 40 minutos y una cantimplora y una comida caliente dan para casi todo
 él. Llena una cantimplora de madera en un río, hierve el agua del lago en una olla, cava un pozo, recoge lluvia en una
-pila. Duerme en una cama, comido y bebido. Si mueres, tus cosas te esperan en un **túmulo vikingo** marcado en el mapa
+pila. La cantimplora da **7 tragos** y su nivel se ve en la barra de desgaste. Comer y beber tienen su propia animación.
+Duerme en una cama, comido y bebido. Si mueres, tus cosas te esperan en un **túmulo vikingo** marcado en el mapa
 y te levantas con unas pocas herramientas básicas.
 
 Cuatro insignias rúnicas abajo a la izquierda muestran salud, aguante, comida y agua: un corazón, un rayo, un pan y una
@@ -89,7 +90,10 @@ valor sube, una parte clara y una línea brillante suben por el símbolo. Pulsa 
 Tab abre el inventario sin pausar el mundo: barra rápida en 1-9 y 0, mochila y pestañas de **Fabricar** y **Cocinar**
 a un lado. Fabricar lista todas las recetas con lo que tienes y lo que falta. Cocinar lista cada plato por utensilio y,
 junto a un fuego, pasa a ser el menú de cocina de ese fuego: asar en espetón, cocer en una olla colgada sobre las llamas,
-o dejar que un hogar de casa cocine tres platos a la vez.
+o dejar que un hogar de casa cocine tres platos a la vez. **Cocinar necesita agua cerca**: un río, un lago, un pozo o
+una **pila de agua**.
+
+![Una hoguera con la olla colgada y una pila de agua al lado, el agua que pide cocinar](media/cook_water_tub.jpg)
 
 | | |
 |---|---|
@@ -126,6 +130,17 @@ flota: cada pieza necesita una cadena de apoyos hasta el suelo. Enciende una **h
 de la lluvia. Las casas se ven vividas: muros combados, madera blanqueada, musgo, escudos, un telar y paja dentro.
 Construir junto a una base grande pesa menos.
 
+La **mesa de trabajo** arregla todo lo que no es de hierro (el hierro lo arregla la fragua). Las herramientas se
+gastan, y el daño se ve en los detalles del objeto: abre la pestaña **Reparar** junto a una mesa. Si usas la
+herramienta equivocada, un aviso te dice cuál sirve. Al sembrar un huerto, un **selector de semillas** te deja elegir. Las sombras
+son más estables.
+
+| | |
+|---|---|
+| ![La mesa de trabajo junto a la casa, con un cofre al lado](media/workbench_close.jpg) | ![La pestaña Reparar: un hacha al 38 %, una espada que pide fragua y una lanza al 65 %](media/repair_tab.jpg) |
+
+![El selector al sembrar un huerto: zanahoria, cebolla y nabo con sus semillas](media/seed_picker.jpg)
+
 Un árbol talado cae como un único tronco liso con su propia corteza, tumbado en el suelo y tan ancho como su tocón.
 
 ![Un roble talado: el tronco liso tendido junto a su tocón, igual de ancho](media/felled_log.jpg)
@@ -152,7 +167,8 @@ Ciervos, jabalíes, liebres y peces viven según el ecosistema al que pertenecen
 liebres cuando estás cerca. Te notan a una distancia que puedes acortar agachándote; un **ojo de sigilo** junto a la
 mira muestra lo cerca que estás de que te descubran. Con Caza 15 ves brillar las **huellas** recientes de los animales
 cerca de ti y hacia dónde fueron. Caza con lanza o **arco**: tensa, apunta, suelta, y la flecha cae con la distancia y
-se detiene en árboles, rocas y muros (las flechas necesitan una pluma). Un **jabalí** herido se defiende: se gira, carga
+se detiene en árboles, rocas y muros (las flechas necesitan una pluma) y se queda clavada en el animal. Una presa
+abatida se **despieza**: arrodíllate y corta el cadáver. Un **jabalí** herido se defiende: se gira, carga
 y embiste. Un animal herido muestra su **barra de vida**, los otros jugadores su nombre y su vida, y un aviso rojo en el
 borde de la pantalla te dice de dónde viene el daño. En lo alto, carboneros revolotean entre los árboles, lavanderas beben
 en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman de noche.
@@ -168,6 +184,8 @@ en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman 
 
 | | |
 |---|---|
+![Despiezando un ciervo: el jugador se arrodilla y corta el cadáver](media/butcher_deer.gif)
+
 | ![Huellas de ciervo brillando al anochecer, alejándose entre los árboles](media/tracks_dusk.jpg) | ![Un jabalí herido carga y embiste al jugador: el aviso rojo señala de dónde vino el golpe](media/boar_charge.gif) |
 
 ### Aldeas
@@ -205,10 +223,13 @@ Los descubrimientos y otras noticias llegan como pequeños **avisos rúnicos** t
 ![Junto a una piedra iluminada: la línea de sigilo de la bendición sobre las insignias, la tirada en reposo y la última lectura arriba](media/blessing.jpg)
 
 ### Combate y herrería
-El hierro sale del pantano. El **hierro de turbera**, pardo rojizo, aparece en los bordes húmedos de las Cuencas de
-Junco. Construye un **bajo horno** (un horno de arcilla: 3 de mineral y 2 troncos dan un lingote) y una **fragua** (un
-hogar con fuelle y un yunque sobre un tocón), y fabrica en la fragua el **seax**, el **hacha barbuda**, la **lanza de
-hierro**, la **espada** y el **escudo redondo**. El clic izquierdo golpea; mantenlo para un golpe cargado. El clic
+El hierro cuesta, y es lo que limpia los túmulos. Busca **charcas herrumbrosas** en las Cuencas de Junco: manchas
+pequeñas de barro anaranjado con un brillo aceitoso en el agua. Cava una con la **pala** y saca de 1 a 3 de **mineral**;
+después queda agotada durante semanas. Quema troncos hasta hacerlos **carbón** en una **carbonera** cubierta de tierra,
+funde 4 de mineral con 4 de carbón en el **bajo horno** para sacar una **esponja de hierro** y forja la esponja en una
+**barra** en la **fragua** (un hogar con fuelle y un yunque sobre un tocón). Allí fabrica el **seax**, el **hacha
+barbuda**, la **lanza de hierro**, la **espada** (3 barras) y el **escudo redondo**. Una barra lleva un cuarto de hora
+de trabajo; una espada, alrededor de una hora. El clic izquierdo golpea; mantenlo para un golpe cargado. El clic
 derecho levanta el escudo: un golpe recibido justo al subirlo se desvía, uno posterior se frena casi del todo y uno
 por la espalda no. El hierro frío hiere más a los no muertos. Las armas se desgastan (el borde de la barra rápida es el
 medidor) y se arreglan en la fragua. **Cuerpo a cuerpo** y **Bloqueo** son habilidades nuevas.
@@ -218,6 +239,10 @@ medidor) y se arreglan en la fragua. **Cuerpo a cuerpo** y **Bloqueo** son habil
 | ![Un tajo de espada alcanza a un draugr, con el escudo redondo en el brazo izquierdo](media/sword_hits_draugr.jpg) | ![El escudo en alto frente a un draugr](media/shield_block.jpg) |
 
 ![La fragua: un yunque sobre un tocón junto a su hogar bajo](media/forge_close.jpg)
+
+| | |
+|---|---|
+| ![Una charca herrumbrosa en el suelo: barro anaranjado con un brillo aceitoso](media/rust_seep.jpg) | ![Cavando la charca con la pala](media/rust_seep_dig.jpg) |
 
 ### Túmulos y draugar
 En lo más denso del bosque se alzan túmulos funerarios: unos diez por cada 5 km de mundo, que aparecen en el mapa al
@@ -259,7 +284,8 @@ Los no muertos usan modelos con licencia (Quaternius CC0), acreditados en el jue
 ### Hidromiel
 Construye un **barril de hidromiel** junto a tu casa, échale miel y agua (y bayas, si quieres una hidromiel de bayas) y
 déjalo un día del juego. Luego, sírvete. Beber hidromiel te reconforta: restaura aguante y acelera la curación. Con tres
-o más te achispas. Los mercaderes comercian con hidromiel, así que un barril lleno también es moneda.
+o más te achispas. Los mercaderes comercian con hidromiel y pagan bien la cera de tu colmena, así que un barril lleno
+también es moneda.
 
 ![El panel del barril de hidromiel: hidromiel y hidromiel de bayas, con la miel, el agua y las bayas que necesita cada una](media/mead_barrel_panel.jpg)
 
@@ -272,7 +298,7 @@ fantasma se ve verde donde cabe y rojo donde no) y colócalo. Apunta a tu barco 
 sitios: una pequeña **flecha bajo la brújula** mientras vas a bordo, de color según lo bien que la vela coge el
 viento; una **cinta** en lo alto del mástil y la propia vela, que se hincha o flamea. Al timón, **W** sube la marcha
 (punto muerto, 1, 2, 3) y **S** la baja hasta marcha atrás, en un arco curvo con un marcador que se desliza. Los
-pasajeros caminan por la cubierta mientras navegas. Los barcos se dañan y se reparan con troncos, y aparecen en el mapa.
+pasajeros caminan por la cubierta mientras navegas. Los barcos se dañan y se reparan con troncos y **cera de abeja** de tu colmena (cuanto más daño, más hace falta), y aparecen en el mapa.
 
 | | |
 |---|---|
@@ -474,13 +500,27 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   ![A lake shore in heavy rain at eye level: rings and small splashes spreading over the water](media/rain_lake.jpg)
 
 - **Survive.** Health, hunger and thirst; 40-minute days; fill flasks at rivers, boil lake water, dig wells, catch
-  rain. If you die, your things wait in a Viking cairn marked on the map. Four carved rune badges at the bottom left
+  rain. The flask holds 7 sips and shows its level on the wear bar; eating and drinking have their own animations. If you die, your things wait in a Viking cairn marked on the map. Four carved rune badges at the bottom left
   show health, stamina, food and water; each symbol drains from the top and glows as it refills. F12 saves a screenshot.
 
   ![Third-person gameplay: the four rune badges for health, stamina, food and water at the bottom left, some partly drained](media/vitals_bars.jpg)
 
 - **Inventory, Craft and Cook.** Tab opens it without pausing the world. Cook becomes the cooking menu of the fire you
-  stand at: spit, hanging pot, or a house hearth cooking three dishes at once.
+  stand at: spit, hanging pot, or a house hearth cooking three dishes at once. Cooking needs water nearby: a river,
+  a lake, a well or a **water tub**.
+
+  ![A campfire with a hanging pot and a water tub beside it, the water cooking asks for](media/cook_water_tub.jpg)
+
+- **Workbench and repairs.** The **workbench** mends everything that is not iron; the forge mends iron. Tools wear,
+  and damage shows in the item details. Use the wrong tool and a hint says which one fits. Sowing a garden plot opens
+  a seed picker. Shadows are steadier.
+
+  | | |
+  |---|---|
+  | ![The workbench beside the house](media/workbench_close.jpg) | ![The Repair tab: a hand axe at 38%, a sword that needs a forge, a spear at 65%](media/repair_tab.jpg) |
+
+  ![The seed picker when sowing a garden plot](media/seed_picker.jpg)
+
 - **Chests.** A wooden chest (12 slots) or a sea chest (24) from the Furniture tab. Building, crafting, cooking, fuel, planting,
   paying and digging soil draw on the chests within 4 m of you or the fire: a small +N in the build, craft and cook
   menus shows what the chests add.
@@ -495,7 +535,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   ground and spends it, F flattens to your feet. Saved with the world and shared in co-op. Not in settlements, by
   monoliths, in lakes, rivers and their banks, on the coast, or under builds and objects.
 - **Fauna and hunting.** Deer, boars, hares, fish; spear or **bow** (arrows drop over distance and stop at
-  obstacles); tits, wagtails, ravens and owls overhead. Animals call when you are near; a stealth eye by the
+  obstacles, and stay in the animal); kneel to butcher a carcass; tits, wagtails, ravens and owls overhead. Animals call when you are near; a stealth eye by the
   crosshair shows how close you are to being found; with Hunting 15 fresh tracks glow; a hurt boar charges back.
   Health bars on wounded animals, names and health over other players, and a hint of where a blow came from.
 - **Settlements.** Up to three Viking hamlets per world with inhabitants on a daily routine: hire workers (paid in
@@ -504,11 +544,13 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 - **Standing stones and runes.** Runestones, picture stones, stone ships and circles. Their blessing restores your
   rune casts and hides you from animals; the Hunter's cast finds game and the Traveller's cast points to the nearest
   undiscovered settlement. News arrives as carved rune notices.
-- **Combat and the smithy.** Bog iron from the edges of the Reed Basins, a **bloomery** (3 ore and 2 logs, one
-  iron bar) and a **forge**; at the forge craft the **seax**, **bearded axe**, **iron spear**, **sword** and **round
-  shield**. Left click swings (hold for a heavy blow); right click raises the shield: parry a blow as it goes up, stop
+- **Combat and the smithy.** Bog ore dug with a shovel from rare **rust seeps** in the Reed Basins, charcoal from
+  a **charcoal clamp**, an iron bloom from the **bloomery** (4 ore, 4 charcoal) hammered into a bar at the **forge**;
+  there craft the **seax**, **bearded axe**, **iron spear**, **sword** (3 bars) and **round shield**. Left click swings (hold for a heavy blow); right click raises the shield: parry a blow as it goes up, stop
   most of a later one, nothing from behind. Cold iron hits the undead harder. Weapons wear and are mended at the
   forge; Melee and Blocking are new skills.
+
+  ![A rust seep on the ground: orange mud with an oily sheen](media/rust_seep.jpg)
 - **Your character.** Worn wool, linen, leather, iron and bronze, a weathered face and painted brows (New game > Appearance, or C in game).
 
   ![Five players in worn wool, linen, leather and fur](media/characters_worn.jpg)
@@ -525,13 +567,13 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   dawn nobody in the world can sleep or sprint (beds refuse you, anyone lying down is woken, a status line shows it),
   and at dawn it lifts.
 - **Mead.** Build a mead barrel, brew honey plus water (berry mead optionally) for an in-game day and tap it. Drinking
-  warms you: stamina and faster healing; three or more and you get tipsy. Merchants trade mead.
+  warms you: stamina and faster healing; three or more and you get tipsy. Merchants trade mead and pay well for the hive's beeswax.
 - **Boats.** A **færing** (rowing) and a **karve** (rowing plus a square sail), bought only with barrow gems from
   settlement fishers and woodworkers and delivered as a packed boat: place it on any water (the ghost goes green
   where it fits), press **Z** at your boat to fold it back, **Tab** to open its cargo. The karve sails by itself in a
   favourable wind; a wind arrow under the compass (coloured by how well the sail catches the wind) and a masthead
   streamer show it. At the helm W steps the gear up (neutral, 1, 2, 3) and S down to astern, on an arc with a sliding
-  marker. With the sail raised the wind keeps pushing in neutral; an unmanned boat does not sail. Passengers walk the deck; boats can be damaged, repaired with logs and show on the map.
+  marker. With the sail raised the wind keeps pushing in neutral; an unmanned boat does not sail. Passengers walk the deck; boats can be damaged, repaired with logs and beeswax (the cost follows the damage) and show on the map.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
   pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
