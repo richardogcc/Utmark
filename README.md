@@ -77,12 +77,13 @@ Salud, hambre y sed bajan despacio: un día dura 40 minutos y una cantimplora y 
 pila. Duerme en una cama, comido y bebido. Si mueres, tus cosas te esperan en un **túmulo vikingo** marcado en el mapa
 y te levantas con unas pocas herramientas básicas.
 
-Cuatro barras verticales junto a la barra rápida muestran salud, aguante, comida y agua, y se llenan de abajo arriba.
-Mientras un valor sube, la barra muestra una parte clara que llega y una banda brillante que la recorre.
+Cuatro insignias rúnicas abajo a la izquierda muestran salud, aguante, comida y agua: un corazón, un rayo, un pan y una
+gota. Llenas, el símbolo tiene todo su color; al gastarse, el color baja y deja una silueta tallada apagada. Mientras un
+valor sube, una parte clara y una línea brillante suben por el símbolo. Pulsa F12 para guardar una captura.
 
-![Partida en tercera persona: las barras verticales de salud, aguante, comida y agua junto a la barra rápida, algunas a medias](media/vitals_bars.jpg)
+![Partida en tercera persona: las cuatro insignias rúnicas de salud, aguante, comida y agua abajo a la izquierda, algunas a medias](media/vitals_bars.jpg)
 
-![Detalle de las barras mientras suben salud y comida: una parte clara que llega y una banda brillante que la recorre](media/vitals_rise.jpg)
+![Detalle de las insignias mientras suben salud y comida: una parte clara y una línea brillante suben por el símbolo](media/vitals_rise.jpg)
 
 ### Inventario, Fabricar y Cocinar
 Tab abre el inventario sin pausar el mundo: barra rápida en 1-9 y 0, mochila y pestañas de **Fabricar** y **Cocinar**
@@ -201,7 +202,7 @@ viajero** señala la aldea más cercana que aún no has encontrado.
 
 Los descubrimientos y otras noticias llegan como pequeños **avisos rúnicos** tallados en la esquina de la pantalla.
 
-![Junto a una piedra iluminada: la línea de sigilo de la bendición sobre las barras, la tirada en reposo y la última lectura arriba](media/blessing.jpg)
+![Junto a una piedra iluminada: la línea de sigilo de la bendición sobre las insignias, la tirada en reposo y la última lectura arriba](media/blessing.jpg)
 
 ### Combate y herrería
 El hierro sale del pantano. El **hierro de turbera**, pardo rojizo, aparece en los bordes húmedos de las Cuencas de
@@ -250,7 +251,7 @@ dice «Subterráneo» y los jugadores cooperativos de la misma cueva se ven entr
 **La luna roja.** Si cazas más de catorce presas (liebres, jabalíes o ciervos) en un día, al anochecer hay una
 probabilidad entre cien de que la luna se vuelva roja como la sangre. La noche se tiñe con ella y, hasta el amanecer,
 nadie en el mundo puede dormir ni correr: las camas te rechazan («La luna roja no te deja dormir»), quien ya estaba
-acostado se despierta y una línea de estado bajo las barras te lo recuerda. Al amanecer todo vuelve a la normalidad.
+acostado se despierta y una línea de estado bajo las insignias te lo recuerda. Al amanecer todo vuelve a la normalidad.
 Los administradores pueden forzar una luna roja desde la web de administración.
 
 Los no muertos usan modelos con licencia (Quaternius CC0), acreditados en el juego, en Créditos.
@@ -473,10 +474,10 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   ![A lake shore in heavy rain at eye level: rings and small splashes spreading over the water](media/rain_lake.jpg)
 
 - **Survive.** Health, hunger and thirst; 40-minute days; fill flasks at rivers, boil lake water, dig wells, catch
-  rain. If you die, your things wait in a Viking cairn marked on the map. Four upright bars beside the hotbar show
-  health, stamina, food and water, filling bottom to top, with a lighter incoming part and a bright band while a value rises.
+  rain. If you die, your things wait in a Viking cairn marked on the map. Four carved rune badges at the bottom left
+  show health, stamina, food and water; each symbol drains from the top and glows as it refills. F12 saves a screenshot.
 
-  ![Third-person gameplay: the upright health, stamina, food and water bars beside the hotbar, some partly empty](media/vitals_bars.jpg)
+  ![Third-person gameplay: the four rune badges for health, stamina, food and water at the bottom left, some partly drained](media/vitals_bars.jpg)
 
 - **Inventory, Craft and Cook.** Tab opens it without pausing the world. Cook becomes the cooking menu of the fire you
   stand at: spit, hanging pot, or a house hearth cooking three dishes at once.
