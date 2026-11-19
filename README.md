@@ -29,10 +29,11 @@ vikinga, cazas, comercias con las aldeas que encuentras, y a veces el cielo resp
 ### Un mundo que se puede leer
 Cada semilla da un mundo propio de unos 10 km: tierras e islas separadas por estrechos, crestas y mesetas, una costa
 irregular y algunas calderas. La misma semilla da siempre el mismo mundo, hasta el último árbol. Un viento dominante lo
-moldea: páramos secos a sotavento de las crestas, nieve en las laderas protegidas, enebros doblados. Las cumbres son redondeadas
-y gastadas, no agujas. El mapa (M) se
+moldea: páramos secos a sotavento de las crestas, nieve en las laderas protegidas, enebros doblados. Las montañas las modela el drenaje: crestas, espolones y barrancos, con laderas sin escarpes rectos, y roca, gravera, brezo y nieve que siguen el relieve. El mapa (M) se
 dibuja como un mapa de campo, con curvas de nivel, escala y rosa de los vientos; acércalo a unos cientos de metros,
 pon marcadores y viaja con un clic.
+
+![Una montaña modelada por el drenaje: costillas de roca, brezo y nieve tardía sobre un bosque y un río](media/mountains_v29.jpg)
 
 | | |
 |---|---|
@@ -161,7 +162,7 @@ En cada mundo hay hasta tres aldeas vikingas, con unas casas, un patio, un cofre
 **habitantes** que duermen, comen y trabajan según una rutina diaria. Encuentra una y queda marcada en el mapa, con un
 contador de las halladas. Habla con un habitante: en la pestaña **Contratar** pagas a un trabajador en **pescado o
 pieles** para que recoja, tale o rompa rocas y abastezca el almacén; en **Trueque** cambias tus cosas por las suyas.
-Sus **gallineros** dan huevos y plumas. Una antorcha eterna arde junto a cada puerta, así que una aldea se distingue de
+Sus **gallineros** dan huevos y plumas; las gallinas y gallos son aves con esqueleto, en cinco plumajes, y cada ave conserva su plumaje para todos en cooperativo. Una antorcha eterna arde junto a cada puerta, así que una aldea se distingue de
 noche. Un **mercader ambulante** recorre el camino entre dos aldeas; cuando las conoces, el mapa lo muestra a él y su
 ruta comercial, pero solo cuando has descubierto las dos aldeas. Los menús son visuales: iconos, intercambios en forma de dar → recibir, un color que indica lo que puedes pagar y detalles en las descripciones emergentes. Los paneles del mercader, la conversación y el almacén se actualizan en vivo, con el **+N** de los cofres cercanos.
 
@@ -291,8 +292,10 @@ paso se puede saltar y «no volver a preguntar» lo aparta. Ajustes > General lo
 
 ### Partida nueva, personaje nuevo o el mismo
 Empieza un mundo desde cero o arrastra las habilidades y el inventario de una partida anterior. Escribe cualquier
-semilla o ajusta el mundo (tamaño, tierra, montañas, vegetación) y regéneralo en segundos. Edita tu aspecto al empezar
+semilla o ajusta el mundo (tamaño, tierra, montañas, vegetación) y regéneralo en segundos. El personaje viste materiales reales desgastados (lana, lino, cuero, hierro, bronce), con rostro curtido y cejas pintadas. Edita tu aspecto al empezar
 (Nueva partida > Apariencia, o C en el juego).
+
+![Cinco jugadores con lana, lino, cuero y piel gastados](media/characters_worn.jpg)
 
 ### Fluido en tu Mac
 Utmark va sobre un Godot 4.7.2 ligeramente parcheado que guarda en caché las sombras lejanas del sol, con texturas
@@ -416,12 +419,12 @@ puede cambiar entre versiones: un mundo de un generador anterior se actualiza al
 pertenencias y tu terraformación, y una costa volcánica mantiene su suelo antiguo bajo lo que hayas construido. Lo
 construido que ya no encaje en el terreno nuevo se desmonta y te devuelve los materiales; los árboles talados y las rocas
 minadas vuelven. Las partidas se abren aunque tengan contenido de más o de versiones anteriores; solo un formato
-realmente más nuevo se rechaza, y dice qué falta. Un mundo actualizado al generador v28 no se abre con una versión anterior: actualiza todos los equipos a la vez.
+realmente más nuevo se rechaza, y dice qué falta. Actualizar un mundo al generador v29 (nuevo relieve de montañas) no guarda copia del antiguo: copia antes la carpeta del mundo si quieres conservarlo. Un mundo v29 no se abre con una versión anterior: actualiza todos los equipos a la vez.
 
 ## Créditos
 Hecho con [Godot](https://godotengine.org) por **Richardo G. Cibea M.** Las mallas del mundo, los shaders y la marca
 son originales, generados por código. El personaje parte de los *Universal Base Characters* y la *Universal Animation
-Library* de Quaternius (CC0); los no muertos, de Quaternius (CC0); los efectos de sonido y ambientes son CC0. La música es original de Utmark (*Utmark —
+Library* de Quaternius (CC0); con materiales basados en escaneos de ambientCG (CC0); los no muertos, de Quaternius (CC0); la gallina y el gallo derivan de *Low Poly Chicken* de Grab3D (CC0), un modelo asistido por IA cuya base se hizo con Meshy; los efectos de sonido y ambientes son CC0. La música es original de Utmark (*Utmark —
 Original Soundtrack*, © Richardo G. Cibea M., todos los derechos reservados), interpretada con muestras CC0. Los barcos son obra original; el barril de hidromiel es *Wine Barrel 01* de Poly Haven (CC0).
 Este repositorio solo contiene las versiones publicadas del juego; el código fuente no es público.
 
@@ -443,12 +446,15 @@ trade with the hamlets you find, and sometimes the sky answers.
 with up to 4 players. New versions arrive through the in-game updater ([Install](#install)).
 
 ### What you will find
-- **A world you can read.** Seeded worlds of about 10 km: islands, ridges, rivers that run to the sea, lakes
+- **A world you can read.** Seeded worlds of about 10 km: islands, ridges shaped by drainage, rivers that run to the sea, lakes
   (every river leaves its lake at the lake's level, no walls of water), and
   seven ecosystems (Dawn Vales, Amber Groves, Reed Basins, Flint Moors, Rime Heights, Salt Coasts and the rare Ember
   Calderas) chosen by the land itself. The same seed always gives the same world. A field-style map with contours, a
   scale bar and a wind rose, zoomable to a few hundred metres, with markers and click-to-travel.
   Every standing stone and settlement is on the map from the start of the session.
+
+  ![A mountain shaped by drainage: rock ribs, heath and late snow above a forest and a river](media/mountains_v29.jpg)
+
 - **Weather with a cause.** Nine kinds, from fog to gale, blizzard and ashfall, with storms, lightning, rising surf.
 - **Survive.** Health, hunger and thirst; 40-minute days; fill flasks at rivers, boil lake water, dig wells, catch
   rain. If you die, your things wait in a Viking cairn marked on the map.
@@ -469,7 +475,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   crosshair shows how close you are to being found; with Hunting 15 fresh tracks glow; a hurt boar charges back.
   Health bars on wounded animals, names and health over other players, and a hint of where a blow came from.
 - **Settlements.** Up to three Viking hamlets per world with inhabitants on a daily routine: hire workers (paid in
-  fish or hides), barter, collect eggs and feathers from their hen pens. An eternal torch burns by every door. A travelling
+  fish or hides), barter, collect eggs and feathers from their hen pens (rigged hens and roosters, five plumages, the same for every co-op player). An eternal torch burns by every door. A travelling
   merchant and his trade route show on the map once you have found both of his settlements. Menus are visual: icon tiles, trades as give → get, colour for what you can afford, tooltips for details. Panels update live, with the +N from chests.
 - **Standing stones and runes.** Runestones, picture stones, stone ships and circles. Their blessing restores your
   rune casts and hides you from animals; the Hunter's cast finds game and the Traveller's cast points to the nearest
@@ -479,6 +485,10 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   shield**. Left click swings (hold for a heavy blow); right click raises the shield: parry a blow as it goes up, stop
   most of a later one, nothing from behind. Cold iron hits the undead harder. Weapons wear and are mended at the
   forge; Melee and Blocking are new skills.
+- **Your character.** Worn wool, linen, leather, iron and bronze, a weathered face and painted brows (New game > Appearance, or C in game).
+
+  ![Five players in worn wool, linen, leather and fur](media/characters_worn.jpg)
+
 - **Barrows and draugar.** Tall burial mounds in the densest forests (about ten per 5 km, on the map once found),
   ringed by kerb stones, Viking graves, rune stones and a stone ship, with a haugbúi, an undead barrow-king, at the
   mouth. The air turns eerie (overcast, ground mist, muted light, no rain). The way in is a weathered **rune door** with
@@ -578,11 +588,11 @@ The world generator may change between versions: a world from an older generator
 character, belongings and terraforming stay, and a volcanic coast keeps its old ground under what you built there. A
 building that no longer fits the new terrain is taken down and its materials returned; felled trees and mined rocks
 come back. Saves open even with extra or older content; only a truly newer format refuses, and it names what is
-missing. A world updated to generator v28 cannot be opened by an older build, so update every machine together.
+missing. Updating a world to generator v29 (new mountain relief) keeps no copy of the old one: copy the world's folder first if you want to keep it. A v29 world cannot be opened by an older build, so update every machine together.
 
 ### Credits
 Made with [Godot](https://godotengine.org) by **Richardo G. Cibea M.** All world meshes, shaders and branding are
 original, generated by code. The character is based on Quaternius' *Universal Base Characters* and *Universal
-Animation Library* (CC0); the undead are based on Quaternius assets (CC0); sound effects and ambiences are CC0. The boats are original work; the mead barrel is Poly Haven's *Wine Barrel 01* (CC0). The music is original (*Utmark — Original Soundtrack*,
+Animation Library* (CC0); materials are based on ambientCG scans (CC0); the hen and rooster derive from Grab3D's *Low Poly Chicken* (CC0), an AI-assisted model whose base was made with Meshy; the undead are based on Quaternius assets (CC0); sound effects and ambiences are CC0. The boats are original work; the mead barrel is Poly Haven's *Wine Barrel 01* (CC0). The music is original (*Utmark — Original Soundtrack*,
 © Richardo G. Cibea M., all rights reserved), played with CC0 samples. This repository only holds the published builds; the
 source code is not public.
