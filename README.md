@@ -188,6 +188,15 @@ en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman 
 
 | ![Huellas de ciervo brillando al anochecer, alejándose entre los árboles](media/tracks_dusk.jpg) | ![Un jabalí herido carga y embiste al jugador: el aviso rojo señala de dónde vino el golpe](media/boar_charge.gif) |
 
+**Lobos.** Manadas de lobos grises recorren los páramos, las alturas y las arboledas. De día guardan la distancia y te
+rodean; al anochecer se envalentonan, se acercan y muerden, sobre todo a quien va solo. El fuego los aleja: con una
+antorcha encendida en la mano retroceden, y no se acercan a una hoguera. Un lobo da una **piel**. El lobo usa un modelo
+con licencia (Quaternius CC0), reesculpido y repintado para el juego.
+
+| | |
+|---|---|
+| ![Una manada de lobos grises se acerca al anochecer, a pocos metros del jugador, con la luz baja de costado](media/wolves_dusk.jpg) | ![Una antorcha encendida en la mano: los lobos se dan la vuelta y se apartan de la llama](media/wolf_torch.jpg) |
+
 ### Aldeas
 En cada mundo hay hasta tres aldeas vikingas, con unas casas, un patio, un cofre de almacén y de dos a cuatro
 **habitantes** que duermen, comen y trabajan según una rutina diaria. Encuentra una y queda marcada en el mapa, con un
@@ -281,6 +290,35 @@ acostado se despierta y una línea de estado bajo las insignias te lo recuerda. 
 Los administradores pueden forzar una luna roja desde la web de administración.
 
 Los no muertos usan modelos con licencia (Quaternius CC0), acreditados en el juego, en Créditos.
+
+### La ira de los túmulos
+Saquea los túmulos y los muertos lo recuerdan. Su **ira**, el **Despertar del túmulo**, crece con los días en cinco etapas, de En calma a Alzados, y la
+tierra lo muestra: los túmulos airados se tiñen de rojo en el mapa y de noche arden **fuegos fatuos** sobre ellos. Cuando
+se agitan, al anochecer salen draugar del túmulo más furioso.
+
+**Asaltos.** Algunas noches una partida de draugar viene a por tu casa. Revientan puertas y agrietan muros; no derriban
+nada, y un martillo lo repara. Nadie duerme cerca de una base atacada, y las aldeas también pueden sufrir un asedio.
+
+| | |
+|---|---|
+| ![Asalto nocturno: un draugr aporrea la puerta de una cabaña bajo una luz pálida y fría](media/raid_door.jpg) | ![El Valdraugr, un draugr con cota de malla tras su escudo redondo, junto a una cabaña en noche de tormenta](media/valdraugr.jpg) |
+
+**La hueste del túmulo.** Las noches de tormenta traen a un haugbúi al frente de draugar y del **Valdraugr**, un draugr
+con cota de malla cuyo escudo para los golpes de frente: atácalo de lado o con un golpe cargado. La hueste puede
+derribar muros que no sostienen nada.
+
+**El Más Antiguo.** Al final despierta el Más Antiguo en el túmulo mayor, con una corona en tu mapa. Lucha con él en su
+cámara más profunda, esquiva su golpe en tierra, abate a los muertos que llama y **quema sus restos** antes del alba o
+se alzará de nuevo. Quemarlo trae una larga calma.
+
+| | |
+|---|---|
+| ![El Más Antiguo, coronado y con la espada en alto, llama a dos draugar en su cámara](media/eldest_summon.jpg) | ![Sus restos ardiendo en el suelo de la cámara, junto al tesoro](media/eldest_burn.jpg) |
+
+**Defenderse.** Forja **clavos de túmulo** en la fragua y clávalos en la boca de un túmulo para sellarlo para siempre: su
+ira baja y su tesoro desaparece. Una **piedra de guarda** junto a tu casa la libra de los asaltos.
+
+![Un túmulo sellado: los clavos de túmulo en la boca del montículo, bajo su puerta de runas](media/barrow_laid.jpg)
 
 ### Hidromiel
 Construye un **barril de hidromiel** junto a tu casa, échale miel y agua (y bayas, si quieres una hidromiel de bayas) y
