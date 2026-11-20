@@ -232,7 +232,8 @@ barbuda**, la **lanza de hierro**, la **espada** (3 barras) y el **escudo redond
 de trabajo; una espada, alrededor de una hora. El clic izquierdo golpea; mantenlo para un golpe cargado. El clic
 derecho levanta el escudo: un golpe recibido justo al subirlo se desvía, uno posterior se frena casi del todo y uno
 por la espalda no. El hierro frío hiere más a los no muertos. Las armas se desgastan (el borde de la barra rápida es el
-medidor) y se arreglan en la fragua. **Cuerpo a cuerpo** y **Bloqueo** son habilidades nuevas.
+medidor) y se arreglan en la fragua. **Cuerpo a cuerpo** y **Bloqueo** son habilidades nuevas. La carbonera, el bajo
+horno y la fragua se asientan sobre cimientos gastados y se pueden construir en pendientes suaves.
 
 | | |
 |---|---|
@@ -314,6 +315,15 @@ A veces el cielo responde. Se acumula el trueno, una figura se forma en las nube
 perdonarte y dejar en tus manos su martillo, Mjölnir, o fulminarte. Si caes, las valquirias cantan sobre tu túmulo.
 
 ![El golpe de Thor: se forma una tormenta, caen rayos alrededor del jugador, que se eleva hacia el cielo mientras Mjölnir se forma de rayos sobre él](media/thor_strike.gif)
+
+### Senda de progreso
+Pulsa J para ver cómo conseguir cada cosa: hay un objetivo para todo lo que puedes fabricar, construir, cocinar o
+destilar, agrupado en pestañas (Supervivencia, Construcción, Herramientas, Armas y escudos, Comida y bebida, Granja,
+Navegación, Herrería, Hazañas) y con un cuadro de búsqueda. Cada objetivo muestra su cadena de materiales y estaciones,
+y dónde conseguir cada una: elige una tarjeta para ver cuánto tienes y de dónde sale. **Seguir objetivo** fija su
+siguiente paso en pantalla. Lo que ya hiciste antes no vuelve a salir bloqueado.
+
+![La Senda de progreso en español, pestaña de armas: la cadena de la espada, de la mena de hierro de pantano a la barra, con el detalle de la mena y el botón Seguir objetivo](media/progression_es.jpg)
 
 ### Logros
 Veinticuatro logros, desde el primer árbol hasta cada piedra en pie, en un menú que muestra el progreso, las fechas y
@@ -449,6 +459,8 @@ Historial de cambios: [Releases](../../releases).
 | Clic derecho | Comer o beber lo que llevas en la mano · levantar el escudo |
 | Clic izquierdo | Golpear con un arma (mantén para un golpe cargado) |
 | M · N · C | Mapa · habilidades · apariencia |
+| J | Senda de progreso |
+| , | Pista anterior de la música |
 | Enter · G | Chat · gestos |
 | Esc · F1 | Pausa · Ajustes > Controles (todo se puede reasignar) |
 
@@ -548,7 +560,8 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   a **charcoal clamp**, an iron bloom from the **bloomery** (4 ore, 4 charcoal) hammered into a bar at the **forge**;
   there craft the **seax**, **bearded axe**, **iron spear**, **sword** (3 bars) and **round shield**. Left click swings (hold for a heavy blow); right click raises the shield: parry a blow as it goes up, stop
   most of a later one, nothing from behind. Cold iron hits the undead harder. Weapons wear and are mended at the
-  forge; Melee and Blocking are new skills.
+  forge; Melee and Blocking are new skills. The charcoal clamp, bloomery and forge stand on worn footings and can be
+  built on gentle slopes.
 
   ![A rust seep on the ground: orange mud with an oily sheen](media/rust_seep.jpg)
 - **Your character.** Worn wool, linen, leather, iron and bronze, a weathered face and painted brows (New game > Appearance, or C in game).
@@ -575,6 +588,13 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   streamer show it. At the helm W steps the gear up (neutral, 1, 2, 3) and S down to astern, on an arc with a sliding
   marker. With the sail raised the wind keeps pushing in neutral; an unmanned boat does not sail. Passengers walk the deck; boats can be damaged, repaired with logs and beeswax (the cost follows the damage) and show on the map.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
+- **Progression path.** Press J for a goal for everything you can make, build, cook or brew, grouped in tabs
+  (Survival, Building, Tools, Weapons & shields, Food & drink, Farming, Seafaring, Smithing, Deeds) with a search box.
+  Each goal shows its chain of materials and stations and where to find each one: pick a card to see what you hold
+  and where it comes from. **Track goal** pins its next step on screen. Things you made before never show as locked
+  again.
+
+  ![The Progression path on its Weapons & shields tab: the sword's chain from bog iron ore to the iron bar, with the ore's detail and the Track goal button](media/progression_combat.jpg)
 - **Achievements, tutorial, music.** Twenty-four achievements, a tutorial that waits for you, thirteen original
   pieces (seven long ambient ones) that only stop when you stop them, and sound that follows the
   ground, the weather and where you are.
@@ -646,7 +666,7 @@ Traffic is not encrypted yet: play with people you trust.
 ### Controls
 W A S D + mouse · Space jump (fly up) · Shift run · Ctrl crouch (fly down) · Tab inventory, Craft and Cook (at a boat, its cargo) · 1–9, 0
 hotbar · left click swing a weapon · E use · F light or put out a fire or torch · right click eat or drink or raise the shield · Z at your boat folds it · W/S at the helm change gear · B build (R turns, E places, Z takes
-down) · M map · N skills · C appearance · Enter chat · G gestures · Esc pause · F1 rebind every control.
+down) · M map · N skills · C appearance · J progression path · , previous music track · Enter chat · G gestures · Esc pause · F1 rebind every control.
 
 ### Roadmap
 Planned next: deeper survival, farming, and more to build and fight.
