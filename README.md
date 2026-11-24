@@ -82,7 +82,7 @@ Cuatro insignias rúnicas abajo a la izquierda muestran salud, aguante, comida y
 gota. Llenas, el símbolo tiene todo su color; al gastarse, el color baja y deja una silueta tallada apagada. Mientras un
 valor sube, una parte clara y una línea brillante suben por el símbolo. Pulsa F12 para guardar una captura.
 
-![Partida en tercera persona: las cuatro insignias rúnicas de salud, aguante, comida y agua abajo a la izquierda, algunas a medias](media/vitals_bars.jpg)
+![Partida en tercera persona: las cuatro insignias rúnicas de salud, aguante, comida y agua abajo a la izquierda, algunas a medias; el minimapa en su aro de bronce abajo a la derecha y los controles de música arriba a la derecha](media/vitals_bars.jpg)
 
 ![Detalle de las insignias mientras suben salud y comida: una parte clara y una línea brillante suben por el símbolo](media/vitals_rise.jpg)
 
@@ -148,7 +148,7 @@ Un árbol talado cae como un único tronco liso con su propia corteza, tumbado e
 | | |
 |---|---|
 | ![Una casa de Hedeby en una pradera, con la puerta abierta](media/house_exterior.jpg) | ![Dentro de la casa: bancos junto a las paredes, paja y el hogar abierto](media/house_interior.jpg) |
-| ![El menú de construcción en la pestaña Granja: huerto, colmena y lazo](media/build_farm.jpg) | ![Huertos junto a la casa, sembrados en momentos distintos](media/farm.jpg) |
+| ![El menú de construcción en la pestaña Granja: huerto, colmena, lazo y barril de hidromiel](media/build_farm.jpg) | ![Huertos junto a la casa, sembrados en momentos distintos](media/farm.jpg) |
 
 ### Terraformación
 Fabrica una **pala** (1 tronco, 2 piedras, 2 juncos). Clic izquierdo cava y te da tierra, clic derecho levanta el
@@ -553,7 +553,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   rain. The flask holds 7 sips and shows its level on the wear bar; eating and drinking have their own animations. If you die, your things wait in a Viking cairn marked on the map. Four carved rune badges at the bottom left
   show health, stamina, food and water; each symbol drains from the top and glows as it refills. F12 saves a screenshot.
 
-  ![Third-person gameplay: the four rune badges for health, stamina, food and water at the bottom left, some partly drained](media/vitals_bars.jpg)
+  ![Third-person gameplay: the four rune badges for health, stamina, food and water at the bottom left, some partly drained; the minimap in its bronze ring at the bottom right and the music controls at the top right](media/vitals_bars.jpg)
 
 - **Inventory, Craft and Cook.** Tab opens it without pausing the world. Cook becomes the cooking menu of the fire you
   stand at: spit, hanging pot, or a house hearth cooking three dishes at once. Cooking needs water nearby: a river,
@@ -662,7 +662,7 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
 | | |
 |---|---|
 | ![Talking to a settlement inhabitant: the Hire tab with the worker's fee, paid in fish](media/talk_hire.jpg) | ![A house at dusk, the eternal torch burning beside its door](media/torches_dusk.jpg) |
-| ![The rune cast menu: the Hunter's cast and the Traveller's cast](media/rune_menu.jpg) | ![The build menu on its Farm tab: garden plot, beehive and snare](media/build_farm.jpg) |
+| ![The rune cast menu: the Hunter's cast and the Traveller's cast](media/rune_menu.jpg) | ![The build menu on its Farm tab: garden plot, beehive, snare and mead barrel](media/build_farm.jpg) |
 | ![The Cook tab at a campfire: each dish counts what the bag holds plus a small +N from the sea chest beside the fire](media/cook_from_chest.jpg) | ![The map with the travelling merchant on his dashed trade route between Kolbeinsstadir and Reyrvik](media/merchant_map.jpg) |
 | ![Glowing deer tracks at dusk, leading off between the trees](media/tracks_dusk.jpg) | ![The world list with sync badges: Conflict, Newer here and Synced](media/lan_sync_worlds.jpg) |
 | ![A pit and a mound dug and raised with the shovel, and the brush ring where the next stroke lands](media/terraform_pit_mound.jpg) | ![Digging a pit with the shovel](media/terraform_dig.gif) |
