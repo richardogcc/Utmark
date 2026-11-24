@@ -69,6 +69,17 @@ ninguno con nieve.
 
 ![La orilla de un lago bajo lluvia fuerte a la altura de los ojos: anillos y pequeñas salpicaduras sobre el agua](media/rain_lake.jpg)
 
+### Estaciones
+El año gira cada 24 días por cuatro estaciones. Una runa junto a la brújula muestra la estación, y cada cambio se
+anuncia al amanecer. El sol sigue a la estación: días cortos de invierno con un sol dorado y bajo, días largos de verano
+con noches de un azul claro. El invierno es más frío, la línea de nieve baja a las tierras bajas y las tormentas de
+verano se vuelven nieve en pleno invierno.
+
+| | |
+|---|---|
+| ![Un sol dorado y bajo de invierno sobre un prado, con la runa de la estación junto a la brújula](media/season_winter_noon.jpg) | ![Una medianoche de verano de azul claro sobre el mismo prado](media/season_summer_midnight.jpg) |
+| ![Un viajero vadea un arroyo frío bajo la lluvia de invierno, con «Mucho frío» junto a las constantes](media/season_winter_rain.jpg) | ![La brújula con el arco del sol y la runa de la estación](media/season_compass.jpg) |
+
 ## Sobrevivir
 
 ### Come, bebe y sigue vivo
@@ -382,6 +393,31 @@ favor de Thor la hace durar más.
 | ![El santuario en su cumbre nevada, visto de lejos: piedras en pie alrededor del altar](media/thor_site_summit.jpg) | ![Los escalones gastados subiendo la última ladera](media/thor_steps.jpg) |
 | ![El altar entre las piedras en pie, con el minimapa abajo a la derecha](media/thor_altar.jpg) | ![El blót: el panel de ofrendas en el altar de Thor](media/thor_blot_panel.jpg) |
 
+### Los altos dioses
+Junto a Thor, otros cuatro dioses tienen un santuario (un **vé**), cada uno en su propio tipo de lugar. Cada dios da una
+bendición, un premio por llegar por primera vez y favor por los actos hechos en su nombre.
+- **Odín** está en la cumbre con la vista más amplia: un trono, un hof y el pino del ahorcado en la subida.
+- **Skaði** guarda las alturas nevadas, con el vé rodeado de estacas y cuerda.
+- **Njörðr** espera en una isla: encuentra el poste de embarque en la orilla y cruza en barco.
+- **Freyr** se sienta en un valle verde y lejano, con un hof y un anillo de árboles.
+
+| | |
+|---|---|
+| ![El vé de Odín en la cumbre: el hof, el poste tallado y el trono](media/god_odin.jpg) | ![El vé de Skaði rodeado de estacas y cuerda, con una cordillera detrás](media/god_skadi.jpg) |
+| ![El vé de Njörðr: el altar al final de una doble fila de piedras en pie](media/god_njord_ve.jpg) | ![El poste de embarque en la orilla, con la isla al otro lado del agua](media/god_njord_island.jpg) |
+| ![El poste tallado de Freyr junto a su hof en el valle verde](media/god_freyr.jpg) | |
+
+### Jól y las fiestas del año
+Cinco fiestas marcan el año; su runa aparece junto a la de la estación, con un presagio el día anterior. En **Jól** cada
+aldea enciende un fuego de Jól con una mesa de banquete: lleva tu parte para calor y favor, y un regalo cuando Jól
+acaba. En las noches de Jól caminan los muertos y cabalga la **hueste salvaje**. Échate al suelo, quédate junto a un
+fuego o bajo techo, o te arrastrará. Una regla del mundo hace que la hueste solo asuste.
+
+| | |
+|---|---|
+| ![El fuego de Jól de una aldea ardiendo de noche entre las casas](media/jol_yard.jpg) | ![La hueste salvaje cabalgando por el cielo de la noche sobre un viajero solo](media/jol_host.jpg) |
+| ![El aviso de Jól: pleno invierno, arden los fuegos del banquete, cabalga la hueste salvaje](media/jol_notice.jpg) | ![La brújula con la luna y la runa de Jól](media/jol_compass.jpg) |
+
 ### Senda de progreso
 Pulsa J para ver cómo conseguir cada cosa: hay un objetivo para todo lo que puedes fabricar, construir, cocinar o
 destilar, agrupado en pestañas (Supervivencia, Construcción, Herramientas, Armas y escudos, Comida y bebida, Granja,
@@ -404,6 +440,14 @@ Un personaje nuevo recibe un tutorial corto: un consejo cada vez, tachado al hac
 paso se puede saltar y «no volver a preguntar» lo aparta. Ajustes > General lo reinicia.
 
 ![La primera tarjeta del tutorial en la esquina: camina con W A S D y mira con el ratón](media/tutorial.jpg)
+
+### Consejos
+Nuevos consejos enseñan la mirada libre, las barras de efectos, el frío, las estaciones, las piedras del camino, el vé y
+Jól, y el consejo del mapa menciona el minimapa.
+
+| | |
+|---|---|
+| ![Una tarjeta de consejo: tienes frío, un techo, un fuego y ropa de abrigo ayudan, con pieles de lobo se hace una capa](media/tip_es_cold.jpg) | ![Una tarjeta de consejo: llega Jól, lleva tu parte al fuego, échate al suelo cuando cabalga la hueste salvaje](media/tip_es_jol.jpg) |
 
 ### Partida nueva, personaje nuevo o el mismo
 Empieza un mundo desde cero o arrastra las habilidades y el inventario de una partida anterior. Escribe cualquier
@@ -655,6 +699,68 @@ with up to 4 players. New versions arrive through the in-game updater ([Install]
   streamer show it. At the helm W steps the gear up (neutral, 1, 2, 3) and S down to astern, on an arc with a sliding
   marker. With the sail raised the wind keeps pushing in neutral; an unmanned boat does not sail. Passengers walk the deck; boats can be damaged, repaired with logs and beeswax (the cost follows the damage) and show on the map.
 - **Thor and Mjölnir.** Sometimes the sky answers: Thor may spare you and leave his hammer, or strike you down.
+- **The Barrow-wake.** Loot the barrows and the dead remember: their wrath grows through five stages, angry barrows turn
+  red on the map and grave-lights burn over the mounds at night. Night **raids** batter doors and crack walls (a hammer
+  mends the harm), storm nights bring the haugbúi and the shielded **Valdraugr**, and at the end the **Eldest** wakes:
+  fight him in his chamber and burn his remains before dawn. **Grave-nails** seal a barrow for good and a **ward-stone**
+  frees your home from raids. Grey **wolves** roam the moors and heights: bold at dusk, kept off by a torch or a fire,
+  and a leader killed scatters the pack.
+
+  | | |
+  |---|---|
+  | ![Night raid: a draugr batters the door of a hut in a cold pale light](media/raid_door.jpg) | ![The Valdraugr, a mailed draugr behind his round shield, at a hut on a storm night](media/valdraugr.jpg) |
+  | ![The Eldest, crowned and sword raised, calls up two draugr in his chamber](media/eldest_summon.jpg) | ![His remains burning on the chamber floor beside the hoard](media/eldest_burn.jpg) |
+  | ![A grey wolf pack closing in at dusk](media/wolves_dusk.jpg) | ![A lit torch in hand: the wolves back away from the flame](media/wolf_torch.jpg) |
+
+- **Cold, the cloak and Thor's pilgrimage.** Heights, snow, night, rain and wind chill you; a roof, a fire and warm
+  clothes help. Craft a **wolf-pelt cloak** at the workbench. Thor's holy site waits on a high snowy summit: find the
+  **way-stone**, follow the cairns and steps, and kneel at the altar with a blood-twig and an offering for **Thor's ward**.
+  Timed effects show as bars above the hotbar, a parchment **minimap** sits at the bottom right, and holding **Left Alt**
+  or the middle mouse button lets you look around without changing course.
+
+  | | |
+  |---|---|
+  | ![A traveller in a wolf-pelt cloak on a bare summit](media/wolf_pelt_cloak.jpg) | ![Snow falling on a storm-swept peak, a fire burning beside the traveller](media/peak_storm_snow.jpg) |
+  | ![The holy site on its snowy summit, seen from afar](media/thor_site_summit.jpg) | ![The worn steps climbing the last slope](media/thor_steps.jpg) |
+  | ![The altar among the standing stones](media/thor_altar.jpg) | ![The blót: the offering panel at Thor's altar](media/thor_blot_panel.jpg) |
+
+- **Seasons.** The year turns every 24 days through four seasons; a rune by the compass shows the season and each turn
+  is announced at dawn. The sun follows the season: short winter days with a low golden sun, long summer days with
+  bright blue nights. Winter is colder, the snow line comes down to the lowlands and summer storms turn to snow in
+  midwinter.
+
+  | | |
+  |---|---|
+  | ![A low golden winter sun over a meadow, the season rune beside the compass](media/season_winter_noon.jpg) | ![A bright blue summer midnight over the same meadow](media/season_summer_midnight.jpg) |
+  | ![A traveller wading a cold stream in winter rain, "Very cold" shown by the vitals](media/season_winter_rain.jpg) | ![The compass with the sun's arc and the season rune](media/season_compass.jpg) |
+
+- **The high gods.** Beside Thor, four more gods keep a holy site (a **vé**) with a blessing, a first-arrival boon and
+  deeds that win favour. **Odin** on the peak with the widest view (high seat, hof and the hanged-man's pine);
+  **Skaði** on the snowy heights, ringed by stakes and rope; **Njörðr** on an island, reached by boat from a landing post
+  on the shore; **Freyr** in a far green valley, with a hof and a ring of trees.
+
+  | | |
+  |---|---|
+  | ![Odin's vé on the summit: the hof, the carved post and the high seat](media/god_odin.jpg) | ![Skaði's vé ringed by stakes and rope, with a mountain range behind](media/god_skadi.jpg) |
+  | ![Njörðr's vé: the altar at the end of a double row of standing stones](media/god_njord_ve.jpg) | ![The landing post on the shore, the island across the water](media/god_njord_island.jpg) |
+  | ![Freyr's carved post beside his hof in the green valley](media/god_freyr.jpg) | |
+
+- **Jól and the year's festivals.** Five festivals mark the year, with an omen the day before. At **Jól** each settlement
+  lights a Yule fire with a feast board: give a share for warmth and favour, and a gift when Jól ends. On Jól nights the
+  dead walk and the **wild host** rides: lie flat, keep by a fire or under a roof, or be carried off. A world rule lets
+  the host only scare.
+
+  | | |
+  |---|---|
+  | ![A settlement's Yule fire burning at night among the houses](media/jol_yard.jpg) | ![The wild host riding through the night sky over a lone traveller](media/jol_host.jpg) |
+  | ![The Jól notice: Midwinter, feast fires burn, the wild host rides](media/jol_notice.jpg) | ![The compass with the moon and the Jól rune](media/jol_compass.jpg) |
+
+- **Tips.** New tutorial tips teach free look, the effect bars, the cold, the seasons, way-stones, the vé and Jól.
+
+  | | |
+  |---|---|
+  | ![A tip card: you are cold, a roof, a fire and warm clothes help, wolf pelts make a cloak](media/tip_en_cold.jpg) | ![A tip card: Jól comes, give a share at the Yule fire, lie flat when the wild host rides](media/tip_en_jol.jpg) |
+
 - **Progression path.** Press J for a goal for everything you can make, build, cook or brew, grouped in tabs
   (Survival, Building, Tools, Weapons & shields, Food & drink, Farming, Seafaring, Smithing, Deeds) with a search box.
   Each goal shows its chain of materials and stations and where to find each one: pick a card to see what you hold
