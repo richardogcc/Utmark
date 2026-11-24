@@ -84,7 +84,23 @@ valor sube, una parte clara y una línea brillante suben por el símbolo. Pulsa 
 
 ![Partida en tercera persona: las cuatro insignias rúnicas de salud, aguante, comida y agua abajo a la izquierda, algunas a medias; el minimapa en su aro de bronce abajo a la derecha y los controles de música arriba a la derecha](media/vitals_bars.jpg)
 
+Los efectos temporales se muestran como barras sobre la barra rápida que se desmenuzan en runas al acabarse; Esc y la
+mochila los listan todos. Un **minimapa** de pergamino en un aro de bronce está abajo a la derecha (el reproductor de
+música pasó arriba a la derecha) y la mochila lo oculta, junto con las constantes, mientras está abierta. Mantén
+**Alt izquierdo** o el **botón central del ratón** para mirar alrededor sin cambiar de rumbo. Un ajuste gráfico
+**Aspecto** ofrece estilos de cuento ilustrado. Los nombres del mapa se leen mejor, y los caminantes y las luces de las
+tumbas se ven de noche.
+
 ![Detalle de las insignias mientras suben salud y comida: una parte clara y una línea brillante suben por el símbolo](media/vitals_rise.jpg)
+
+### El frío y la capa de piel de lobo
+La altura, la nieve, la noche, la lluvia y el viento te enfrían; un techo, un fuego y ropa de abrigo ayudan. Helarse
+frena tu aguante y duele poco a poco. Por encima de la línea de nieve la lluvia se vuelve nieve y las tormentas, ventiscas.
+Fabrica una **capa de piel de lobo** en el banco de trabajo con pieles de lobo y póntela contra el frío.
+
+| | |
+|---|---|
+| ![Un viajero con capa de piel de lobo en una cumbre pelada](media/wolf_pelt_cloak.jpg) | ![Nieve cayendo sobre un pico azotado por la tormenta, con una hoguera junto al viajero](media/peak_storm_snow.jpg) |
 
 ### Inventario, Fabricar y Cocinar
 Tab abre el inventario sin pausar el mundo: barra rápida en 1-9 y 0, mochila y pestañas de **Fabricar** y **Cocinar**
@@ -182,15 +198,15 @@ en la orilla, los **cuervos** planean sobre las crestas y los **búhos** llaman 
 
 ![Acercándose a unos ciervos: el ojo de sigilo junto a la mira pasa de tranquilo a receloso (amarillo) y a alerta (rojo)](media/stealth_eye.jpg)
 
-| | |
-|---|---|
 ![Despiezando un ciervo: el jugador se arrodilla y corta el cadáver](media/butcher_deer.gif)
 
+| | |
+|---|---|
 | ![Huellas de ciervo brillando al anochecer, alejándose entre los árboles](media/tracks_dusk.jpg) | ![Un jabalí herido carga y embiste al jugador: el aviso rojo señala de dónde vino el golpe](media/boar_charge.gif) |
 
 **Lobos.** Manadas de lobos grises recorren los páramos, las alturas y las arboledas. De día guardan la distancia y te
 rodean; al anochecer se envalentonan, se acercan y muerden, sobre todo a quien va solo. El fuego los aleja: con una
-antorcha encendida en la mano retroceden, y no se acercan a una hoguera. Un lobo da una **piel**. El lobo usa un modelo
+antorcha encendida en la mano retroceden, y no se acercan a una hoguera. Un lobo da una **piel**, suficiente para una capa contra el frío. Si matas al líder, toda la manada huye. El lobo usa un modelo
 con licencia (Quaternius CC0), reesculpido y repintado para el juego.
 
 | | |
@@ -354,6 +370,18 @@ perdonarte y dejar en tus manos su martillo, Mjölnir, o fulminarte. Si caes, la
 
 ![El golpe de Thor: se forma una tormenta, caen rayos alrededor del jugador, que se eleva hacia el cielo mientras Mjölnir se forma de rayos sobre él](media/thor_strike.gif)
 
+### La peregrinación de Thor
+El santuario de Thor espera en una cumbre alta y nevada. Busca la **piedra-guía** al pie de la montaña y sigue el
+camino pisado, los **hitos de piedra** y los **escalones** gastados, más allá de un **refugio**. Llegar ya es un
+premio: arrodíllate ante el altar con una ramita con sangre y una ofrenda (carne cruda o asada, hidromiel) para el
+**blót**, y recibes la **protección de Thor**. Su rayo te perdona, y los muertos y las incursiones duelen menos. El
+favor de Thor la hace durar más.
+
+| | |
+|---|---|
+| ![El santuario en su cumbre nevada, visto de lejos: piedras en pie alrededor del altar](media/thor_site_summit.jpg) | ![Los escalones gastados subiendo la última ladera](media/thor_steps.jpg) |
+| ![El altar entre las piedras en pie, con el minimapa abajo a la derecha](media/thor_altar.jpg) | ![El blót: el panel de ofrendas en el altar de Thor](media/thor_blot_panel.jpg) |
+
 ### Senda de progreso
 Pulsa J para ver cómo conseguir cada cosa: hay un objetivo para todo lo que puedes fabricar, construir, cocinar o
 destilar, agrupado en pestañas (Supervivencia, Construcción, Herramientas, Armas y escudos, Comida y bebida, Granja,
@@ -500,6 +528,7 @@ Historial de cambios: [Releases](../../releases).
 | J | Senda de progreso |
 | , | Pista anterior de la música |
 | Enter · G | Chat · gestos |
+| Alt izq. · botón central (mantener) | Mirar alrededor sin cambiar de rumbo |
 | Esc · F1 | Pausa · Ajustes > Controles (todo se puede reasignar) |
 
 ## Hoja de ruta
